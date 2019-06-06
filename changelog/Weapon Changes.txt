@@ -1,0 +1,1943 @@
+﻿#------------------------
+# Infusion Changes
+#------------------------
+All weapons other than the following can be infused:
+- Bows
+- Crossbows
+- Spell Tools
+- Dark Hand
+
+Cursed:
+- Increases base damage by 50%
+- Reduces durability (-10)
+- Increases the Critical value (+20)
+- Reduces maximum HP by 50%
+
+Raw:
+- Increases base damage by 50%
+- Removes all scaling
+- Reduces stat requirements by 50%
+
+Poison: 
+- Adds Poison aux of 20 (+0) to 60 (+10)
+- Reduces base damage by 10%
+
+Blood:
+- Adds Bleed aux of 20 (+0) to 60 (+10)
+- Reduces base damage by 10%
+
+Frost:
+- Adds Frost aux of 20 (+0) to 60 (+10)
+- Reduces base damage by 10%
+
+Magic:  
+- Reduces Physical damage by 50%
+- Reduces non-Magic damage by 50%
+- Adds Magic Damage equal to the highest damage value on the original weapon (if Magic damage is already present, increases it by 50%)
+- Adds INT scaling equal to the highest scaling value on the original weapon
+- Effect: recover 5 (+0) to 10 (+10) FP on hit.
+
+Fire:  
+- Reduces Physical damage by 50%
+- Reduces non-Fire damage by 50%
+- Adds Fire Damage equal to the highest damage value on the original weapon (if Fire damage is already present, increases it by 50%)
+- Adds INT and FTH scaling equal to the half of the highest scaling value on the original weapon
+- Effect: deals 1 (+0) to 5 (+10) damage over time for 5 (+0) to 10 (+10) seconds, applied on hit.
+
+Lightning:  
+- Reduces Physical damage by 50%
+- Reduces non-Lightning damage by 50%
+- Adds Lightning Damage equal to the highest damage value on the original weapon (if Lightning damage is already present, increases it by 50%)
+- Adds FTH scaling equal to the highest scaling value on the original weapon
+- Effect: reduces enemy Elemental absorption by 1% (+0) to 5% (+10) for 3 (+0) to 5 (+10) seconds on hit.
+
+Dark:  
+- Reduces Physical damage by 50%
+- Reduces non-Dark damage by 50%
+- Adds Dark Damage equal to the highest damage value on the original weapon (if Dark damage is already present, increases it by 50%)
+- Adds INT and FTH scaling equal to the half of the highest scaling value on the original weapon
+- Effect: recover 5 (+0) to 10 (+10) HP on hit.
+
+Lucky:
+- Reduces STR, DEX, INT and FTH scaling by 50%
+- Adds Luck Scaling equal to the highest scaling value on the original weapon
+- Effect: increases Item Discovery by 5% (+0) to 30% (+10)
+
+Enchanted:
+- Reduces STR, DEX and FTH scaling by 50%
+- Physical Damage is now affected by INT scaling
+- Adds INT Scaling equal to the highest scaling value on the original weapon
+- Effect: adds 1 (+0) to 2 (+10) FP per second
+
+Holy:
+- Reduces STR, DEX and INT scaling by 50%
+- Physical Damage is now affected by FTH scaling
+- Adds FTH Scaling equal to the highest scaling value on the original weapon
+- Effect: adds 1 (+0) to 2 (+10) HP per second
+
+Heavy:
+- Changes scaling into 80% STR, 20% DEX. If already 100% STR, increases by 10%.
+- Increases weight by 25%
+- Effect: Slows weapon degradation by 1 (+0) to 5 (+10)
+- Effect: Increases STR by 1 (+0) to 10 (+10)
+- Switches STR requirement with DEX if DEX requirement is higher.
+
+Light:
+- Changes scaling into 80% DEX, 20% STR. If already 100% DEX, increases by 10%.
+- Reduces weight by 25%
+- Effect: Reduces weapon FP consumption by 10% (+0) to 20% (+10)
+- Effect: Increases DEX by 1 (+0) to 10 (+10)
+- Switches DEX requirement with STR if STR requirement is higher.
+
+Refined:
+- Changes scaling into 50% STR, 50% DEX. If already 50% STR and 50% DEX, increases by 10%.
+- Effect: Reduces weapon stamina consumption by 10% (+0) to 20% (+10)
+- Effect: Increases STR by 1 (+0) to 5 (+10)
+- Effect: Increases DEX by 1 (+0) to 5 (+10)
+- Equalizes current STR and DEX stat requirements.
+
+#------------------------
+# Daggers
+#------------------------
+# Dagger
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 5
+- DEX Requirement: 9
+
+# Parrying Dagger
+- Reinforcement: Titanite
+- Weight: 1
+- STR Requirement: 5
+- DEX Requirement: 14
+
+# Engraved Dagger
+- Reinforcement: Twinkling Titanite
+- Weight: 1.5
+- Physical Damage: affected by FTH
+- STR Requirement: 8
+- DEX Requirement: 8
+- FTH Requirement: 16
+
+# Mail Breaker
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 7
+- DEX Requirement: 12
+
+# Harpe
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 8
+- DEX Requirement: 10
+
+# Bandit's Knife
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 6
+- DEX Requirement: 12
+
+# Rotten Ghru Dagger
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 10
+- DEX Requirement: 8
+
+# Corvian Greatknife
+- Reinforcement: Titanite
+- Weight: 2.5
+- STR Requirement: 12
+- DEX Requirement: 16
+
+# Murky Hand Scythe
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 6
+- DEX Requirement: 11
+- INT Requirement: 11
+- FTH Requirement: 11
+
+# Firelink Dagger
+- Reinforcement: Titanite Scale
+- Weight: 3
+- STR Requirement: 20
+- DEX Requirement: 20
+- INT Requirement: 20
+- FTH Requirement: 20
+
+# Handmaid's Dagger
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- STR Requirement: 12
+- DEX Requirement: 14
+- INT Requirement: 22
+- FTH Requirement: 22
+- Effect: boosts damage of Pyromancies by 10%
+
+# Scholar's Candlestick
+- Reinforcement: Twinkling Titanite
+- Weight: 1.5
+- STR Requirement: 7
+- INT Requirement: 28
+- Effect: Increases max FP by 10%
+
+# Aquamarine Dagger
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- STR Requirement: 10
+- DEX Requirement: 18
+- INT Requirement: 28
+
+# Tailbone Short Sword
+- Reinforcement: Dragon Scale
+- Weight: 2
+- STR Requirement: 22
+- DEX Requirement: 16
+
+# Brigand Twindaggers
+- Reinforcement: Titanite
+- Weight: 2.5
+- STR Requirement: 10
+- DEX Requirement: 18
+
+#------------------------
+# Straight Swords
+#------------------------
+# Shortsword
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 8
+- DEX Requirement: 10
+
+# Long Sword
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 10
+- DEX Requirement: 10
+
+# Broadsword
+- Reinforcement: Titanite
+- Weight: 5
+- STR Requirement: 10
+- DEX Requirement: 10
+
+# Broken Straight Sword
+- Reinforcement: Titanite
+- Weight: 1
+- STR Requirement: 8
+- DEX Requirement: 8
+
+# Astora Straight Sword
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 10
+- DEX Requirement: 10
+
+# Lothric Knight Sword
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 11
+- DEX Requirement: 18
+
+# Barbed Straight Sword
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 11
+- DEX Requirement: 11
+
+# Firelink Sword
+- Reinforcement: Titanite Scale
+- Weight: 5
+- STR Requirement: 25
+- DEX Requirement: 25
+- INT Requirement: 25
+- FTH Requirement: 25
+
+# Dark Sword
+- Reinforcement: Titanite
+- Weight: 5
+- STR Requirement: 16
+- DEX Requirement: 15
+
+# Moonlight Sword   
+- Reinforcement: Titanite Scale
+- Weight: 6
+- STR Requirement: 16
+- DEX Requirement: 12
+- INT Requirement: 38
+
+# Cleric's Candlestick
+- Reinforcement: Titanite Scale
+- Weight: 2
+- Can cast Sorceries.
+
+# Irithyll Straight Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 4
+- STR Requirement: 16
+- DEX Requirement: 25
+
+# Lothric Candlestick
+- Reinforcement: Twinkling Titanite
+- Weight: 4.5
+- STR Requirement: 16
+- DEX Requirement: 16
+- FTH Requirement: 32
+
+# Anri's Straight Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- STR Requirement: 16
+- DEX Requirement: 24
+
+# Sunlight Straight Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- STR Requirement: 18
+- DEX Requirement: 18
+- FTH Requirement: 26
+
+# Tailbone Sword 
+- Reinforcement: Dragon Scale
+- Weight: 8
+- STR Requirement: 18
+- DEX Requirement: 16
+
+# Morion Blade
+- Reinforcement: Twinkling Titanite
+- Weight: 4
+- STR Requirement: 18
+- DEX Requirement: 27
+
+# Ringed Knight Straight Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 4.5
+- STR Requirement: 23
+- DEX Requirement: 21
+
+# Lothric's Holy Sword
+- Reinforcement: Titanite Scale
+- Weight: 4
+- STR Requirement: 10
+- DEX Requirement: 18
+- FTH Requirement: 38
+
+# Fume Sword    
+- Reinforcement: Twinkling Titanite
+- Weight: 14
+- STR Requirement: 38
+- DEX Requirement: 16
+
+# Archdeacon's Bident 
+- Reinforcement: Titanite Scale
+- Weight: 5
+- STR Requirement: 12
+- DEX Requirement: 14
+- FTH Requirement: 32
+
+# Gotthard Twinswords
+- Reinforcement: Titanite
+- Weight: 6.5
+- STR Requirement: 12
+- DEX Requirement: 18
+
+# Valorheart
+- Reinforcement: Twinkling Titanite
+- Weight: 5.5
+- STR Requirement: 25
+- DEX Requirement: 25
+
+# Golden Dual Swords
+- Reinforcement: Twinkling Titanite
+- Weight: 5
+- STR Requirement: 16
+- DEX Requirement: 40
+
+#------------------------
+# Greatswords
+#------------------------
+# Bastard Sword
+- Reinforcement: Titanite
+- Weight: 8
+- STR Requirement: 16
+- DEX Requirement: 10
+
+# Smouldering Greatsword
+- Reinforcement: Twinkling Titanite
+- Weight: 6
+- STR Requirement: 26
+- DEX Requirement: 12
+
+# Claymore
+- Reinforcement: Titanite
+- Weight: 9
+- STR Requirement: 16
+- DEX Requirement: 13
+
+# Flamberge
+- Reinforcement: Titanite
+- Weight: 8.5
+- STR Requirement: 15
+- DEX Requirement: 14
+
+# Drakeblood Greatsword
+- Reinforcement: Titanite
+- Weight: 6
+- STR Requirement: 18
+- DEX Requirement: 16
+
+# Executioner's Greatsword
+- Reinforcement: Titanite
+- Weight: 9
+- STR Requirement: 19
+- DEX Requirement: 13
+- Effect: restores 20 FP on kill
+
+# Black Knight Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 10
+- STR Requirement: 26
+- DEX Requirement: 18
+
+# Onyx Blade
+- Reinforcement: Twinkling Titanite
+- Weight: 9
+- STR Requirement: 18
+- DEX Requirement: 16
+- INT Requirement: 30
+- FTH Requirement: 30
+
+# Hollowslayer Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 8.5
+- STR Requirement: 24
+- DEX Requirement: 36
+
+# Wolnir's Holy Sword
+- Reinforcement: Titanite Scale
+- Weight: 7.5
+- STR Requirement: 20
+- DEX Requirement: 10
+- FTH Requirement: 34
+
+# Storm Ruler
+- Reinforcement: Titanite Scale
+- Weight: 8
+
+# Wolf Knight's Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 11.5
+- STR Requirement: 24
+- DEX Requirement: 38
+
+# Greatsword of Judgment
+- Reinforcement: Titanite Scale
+- Weight: 9
+- STR Requirement: 20
+- DEX Requirement: 18
+- INT Requirement: 30
+
+# Twin Princes' Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 9.5
+- STR Requirement: 36
+- DEX Requirement: 18
+- FTH Requirement: 30
+
+# Firelink Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 14
+- STR Requirement: 30
+- DEX Requirement: 30
+- INT Requirement: 30
+- FTH Requirement: 30
+
+# Moonlight Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 10.5
+- STR Requirement: 18
+- DEX Requirement: 16
+- INT Requirement: 40
+
+# Gael's Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 9
+- Physical Damage: 114
+- STR Requirement: 32
+- DEX Requirement: 28
+
+# Sword of Avowal
+- Reinforcement: Twinkling Titanite
+- Weight: 8
+- STR Requirement: 24
+- DEX Requirement: 28
+
+#------------------------
+# Ultra Greatswords
+#------------------------
+# Zweihander
+- Reinforcement: Titanite
+- Weight: 10
+- STR Requirement: 28
+- DEX Requirement: 12
+
+# Greatsword
+- Reinforcement: Titanite
+- Weight: 20
+- STR Requirement: 28
+- DEX Requirement: 10
+
+# Astora Greatsword
+- Reinforcement: Titanite
+- Weight: 8
+- STR Requirement: 16
+- DEX Requirement: 18
+
+# Lothric Knight Greatsword
+- Reinforcement: Titanite
+- Weight: 16.5
+- STR Requirement: 24
+- DEX Requirement: 16
+
+# Cathedral Knight Greatsword
+- Reinforcement: Titanite
+- Weight: 15
+- STR Requirement: 26
+- DEX Requirement: 10
+
+# Irithyll Greatsword
+- Reinforcement: Twinkling Titanite
+- Weight: 7.8
+- STR Requirement: 22
+- DEX Requirement: 32
+
+# Fume Ultra Greatsword
+- Reinforcement: Twinkling Titanite
+- Weight: 25.5
+- STR Requirement: 50
+- DEX Requirement: 10
+
+# Profaned Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 13.5
+- STR Requirement: 34
+- DEX Requirement: 13
+
+# Lorian's Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 14
+- STR Requirement: 34
+- DEX Requirement: 16
+
+# Ringed Knight Paired Greatswords
+- Reinforcement: Twinkling Titanite
+- Weight: 22.5
+- STR Requirement: 36
+- DEX Requirement: 28
+
+# Farron Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 12.5
+- STR Requirement: 10
+- DEX Requirement: 35
+
+# Black Knight Greatsword
+- Reinforcement: Twinkling Titanite
+- Weight: 16
+- STR Requirement: 40
+- DEX Requirement: 18
+
+# Abyssal Greatsword    
+- Reinforcement: Twinkling Titanite
+- Weight: 20
+- STR Requirement: 32
+- DEX Requirement: 24
+
+#------------------------
+# Curved Swords
+#------------------------
+# Scimitar
+- Reinforcement: Titanite
+- Weight: 2.5
+- STR Requirement: 7
+- DEX Requirement: 13
+
+# Falchion
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 9
+- DEX Requirement: 13
+
+# Shotel
+- Reinforcement: Titanite
+- Weight: 2.5
+- STR Requirement: 9
+- DEX Requirement: 14
+
+# Carthus Curved Sword
+- Reinforcement: Titanite
+- Weight: 5.5
+- STR Requirement: 15
+- DEX Requirement: 18
+
+# Carthus Shotel
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 12
+- DEX Requirement: 19
+
+# Rotten Ghru Curved Sword
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 10
+- DEX Requirement: 13
+
+# Painting Guardian's Curved Sword
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 7
+- DEX Requirement: 19
+
+# Follower Sabre
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 9
+- DEX Requirement: 14
+
+# Pontiff Knight Curved Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 3.5
+- STR Requirement: 12
+- DEX Requirement: 32
+
+# Crescent Moon Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 2.5
+- STR Requirement: 12
+- DEX Requirement: 24
+- INT Requirement: 18
+
+# Storm Curved Sword
+- Reinforcement: Titanite Scale
+- Weight: 5
+- STR Requirement: 18
+- DEX Requirement: 35
+
+# Demon's Scar
+- Reinforcement: Titanite Scale
+- Weight: 0.5
+- DEX Requirement: 20
+- INT Requirement: 30
+- FTH Requirement: 30
+
+# Machete   
+- Reinforcement: Twinkling Titanite
+- Weight: 6
+- STR Requirement: 18
+- DEX Requirement: 16
+
+# Sellsword Twinblades
+- Reinforcement: Titanite
+- Weight: 5.5
+- STR Requirement: 10
+- DEX Requirement: 16
+
+# Warden Twinblades
+- Reinforcement: Titanite
+- Weight: 6.5
+- STR Requirement: 10
+- DEX Requirement: 18
+
+# Dancer's Enchanted Swords
+- Reinforcement: Titanite Scale
+- Weight: 8.5
+- STR Requirement: 18
+- DEX Requirement: 30
+- INT Requirement: 20
+- FTH Requirement: 20
+
+#------------------------
+# Curved Greatswords
+#------------------------
+# Murakumo
+- Reinforcement: Titanite
+- Weight: 11
+- STR Requirement: 20
+- DEX Requirement: 18
+
+# Carthus Curved Greatsword
+- Reinforcement: Titanite
+- Weight: 10.5
+- STR Requirement: 18
+- DEX Requirement: 22
+
+# Pontiff Knight Greatsword 
+- Reinforcement: Twinkling Titanite
+- Weight: 16
+- STR Requirement: 25
+- DEX Requirement: 35
+
+# Exile Greatsword
+- Reinforcement: Titanite
+- Weight: 17
+- STR Requirement: 24
+- DEX Requirement: 16
+
+# Harald Curved Greatsword
+- Reinforcement: Titanite Scale
+- Weight: 14
+- STR Requirement: 22
+- DEX Requirement: 18
+
+# Old Wolf Curved Sword
+- Reinforcement: Twinkling Titanite
+- Weight: 13
+- STR Requirement: 18
+- DEX Requirement: 36
+
+#------------------------
+# Thrusting Swords
+#------------------------
+# Rapier
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 7 
+- DEX Requirement: 12
+
+# Estoc
+- Reinforcement: Titanite
+- Weight: 3.5
+- STR Requirement: 10
+- DEX Requirement: 12
+
+# Ricard's Rapier
+- Reinforcement: Titanite
+- Weight: 2.5
+- STR Requirement: 12
+- DEX Requirement: 20
+
+# Irithyll Rapier
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- STR Requirement: 10
+- DEX Requirement: 24
+
+# Bone Rapier
+- Reinforcement: Twinkling Titanite
+- Weight: 2.5
+- STR Requirement: 22
+- DEX Requirement: 16
+
+# Firelink Rapier
+- Reinforcement: Titanite Scale
+- Weight: 3
+- STR Requirement: 25
+- DEX Requirement: 25
+- INT Requirement: 25
+- FTH Requirement: 25
+
+# Crystal Sage's Rapier
+- Reinforcement: Titanite Scale
+- Weight: 2.5
+- STR Requirement: 10
+- DEX Requirement: 10
+- INT Requirement: 30
+- Effect: increases Item Discovery by 50
+
+# Crow Quills
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 9
+- DEX Requirement: 16
+
+#------------------------
+# Katanas
+#------------------------
+# Uchigatana
+- Reinforcement: Titanite
+- Weight: 5.5
+- STR Requirement: 11
+- DEX Requirement: 16
+
+# Washing Pole
+- Reinforcement: Titanite
+- Weight: 8.5
+- STR Requirement: 18
+- DEX Requirement: 20
+
+# Black Blade
+- Reinforcement: Titanite
+- Weight: 6.5
+- STR Requirement: 18
+- DEX Requirement: 18
+
+# Bloodlust
+- Reinforcement: Twinkling Titanite
+- Weight: 5
+- STR Requirement: 16
+- DEX Requirement: 30
+
+# Chaos Blade
+- Reinforcement: Twinkling Titanite
+- Weight: 6
+- STR Requirement: 16
+- DEX Requirement: 28
+
+# Darkdrift
+- Reinforcement: Twinkling Titanite
+- Weight: 3.5
+- STR Requirement: 15
+- DEX Requirement: 30
+
+# Frayed Blade
+- Reinforcement: Titanite Scale
+- Weight: 8
+- STR Requirement: 24
+- DEX Requirement: 36
+
+# Onikiri and Ubadachi
+- Reinforcement: Titanite
+- Weight: 8.5
+- STR Requirement: 13
+- DEX Requirement: 25
+
+#------------------------
+# Axes
+#------------------------
+# Hand Axe
+- Reinforcement: Titanite
+- Weight: 2.5
+- STR Requirement: 9
+- DEX Requirement: 8
+
+# Thrall Axe
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 8
+- DEX Requirement: 8
+
+# Battle Axe
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 12
+- DEX Requirement: 8
+
+# Brigand Axe
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 14
+- DEX Requirement: 8
+
+# Dragonslayer's Axe
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 18
+- DEX Requirement: 14
+
+# Millwood Battle Axe
+- Reinforcement: Titanite
+- Weight: 6.5
+- STR Requirement: 15
+- DEX Requirement: 10
+
+# Missionary Axe
+- Reinforcement: Titanite
+- Weight: 6
+- STR Requirement: 12
+- DEX Requirement: 12
+
+# Man Serpent Hatchet
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 16
+- DEX Requirement: 13
+
+# Butcher Knife
+- Reinforcement: Twinkling Titanite
+- Weight: 7
+- STR Requirement: 24
+
+# Eleonora
+- Reinforcement: Twinkling Titanite
+- Weight: 6.5
+- STR Requirement: 32
+- DEX Requirement: 14
+
+# Demon's Axe  
+- Reinforcement: Titanite Scale
+- Weight: 12
+- STR Requirement: 32
+
+# Winged Knight Twinaxes
+- Reinforcement: Titanite
+- Weight: 8.5
+- STR Requirement: 20
+- DEX Requirement: 12
+
+#------------------------
+# Greataxes
+#------------------------
+# Greataxe
+- Reinforcement: Titanite
+- Weight: 16
+- STR Requirement: 32
+- DEX Requirement: 8
+
+# Great Machete
+- Reinforcement: Titanite
+- Weight: 14
+- STR Requirement: 24
+- DEX Requirement: 10
+
+# Black Knight Greataxe
+- Reinforcement: Twinkling Titanite
+- Weight: 19.5
+- STR Requirement: 36
+- DEX Requirement: 18
+
+# Demon's Great Axe
+- Reinforcement: Titanite Scale
+- Weight: 32
+- STR Requirement: 40
+
+# Dragonslayer Greataxe
+- Reinforcement: Titanite Scale
+- Weight: 20
+- STR Requirement: 40
+
+# Yhorm's Great Machete
+- Reinforcement: Titanite Scale
+- Weight: 19
+- STR Requirement: 40
+- DEX Requirement: 10
+
+# Earth Seeker
+- Reinforcement: Twinkling Titanite
+- Weight: 17
+- STR Requirement: 35
+- FTH Requirement: 15
+
+#------------------------
+# Hammers
+#------------------------
+# Club
+- Reinforcement: Titanite
+- Weight: 2.5
+- STR Requirement: 10
+
+# Reinforced Club
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 12
+
+# Mace
+- Reinforcement: Titanite
+- Weight: 5
+- STR Requirement: 12
+- DEX Requirement: 7
+
+# Morning Star
+- Reinforcement: Titanite
+- Weight: 5
+- STR Requirement: 11
+- DEX Requirement: 9
+
+# Warpick
+- Reinforcement: Titanite
+- Weight: 4.5
+- STR Requirement: 12
+- DEX Requirement: 10
+
+# Blacksmith Hammer
+- Reinforcement: Titanite
+- Weight: 5
+- STR Requirement: 13
+- DEX Requirement: 13
+
+# Hammer of the Great Tree
+- Reinforcement: Twinkling Titanite
+- Weight: 16
+- STR Requirement: 28
+
+# Tailbone Club 
+- Reinforcement: Dragon Scale
+- Weight: 8
+- STR Requirement: 28
+
+# Heysel Pick
+- Reinforcement: Twinkling Titanite
+- Weight: 4.5
+- STR Requirement: 12
+- DEX Requirement: 10
+- INT Requirement: 28
+- Can cast Sorceries.
+
+# Four Knights Hammer
+- Reinforcement: Twinkling Titanite
+- Weight: 8
+- STR Requirement: 26
+
+# Yorshka's Hammer 
+- Reinforcement: Twinkling Titanite
+- Weight: 6
+- STR Requirement: 14
+- DEX Requirement: 8
+- INT Requirement: 25
+- FTH Requirement: 25
+
+# Irithyll Mace 
+- Reinforcement: Twinkling Titanite
+- Weight: 11
+- STR Requirement: 24
+- DEX Requirement: 16
+
+# Irithyll Warpick 
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- STR Requirement: 16
+- DEX Requirement: 22
+
+# Hammer of Carim 
+- Reinforcement: Twinkling Titanite
+- Weight: 12
+- STR Requirement: 20
+- DEX Requirement: 10
+- FTH Requirement: 25
+
+# Tailbone Pick 
+- Reinforcement: Dragon Scale
+- Weight: 6
+- STR Requirement: 18
+- DEX Requirement: 12
+
+# Wooden Mallet
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 12
+- DEX Requirement: 12
+
+# Drang Hammers
+- Reinforcement: Titanite
+- Weight: 9
+- STR Requirement: 18
+- DEX Requirement: 16
+
+#------------------------
+# Great Hammers
+#------------------------
+# Large Club 
+- Reinforcement: Titanite
+- Weight: 10
+- STR Requirement: 25
+
+# Great Club 
+- Reinforcement: Titanite
+- Weight: 12
+- STR Requirement: 32
+
+# Great Mace 
+- Reinforcement: Titanite
+- Weight: 18
+- STR Requirement: 32
+
+# Spiked Mace 
+- Reinforcement: Titanite
+- Weight: 16
+- STR Requirement: 21
+- DEX Requirement: 13
+
+# Pickaxe 
+- Reinforcement: Titanite
+- Weight: 8
+- STR Requirement: 18
+- DEX Requirement: 9
+
+# Great Wooden Hammer 
+- Reinforcement: Titanite
+- Weight: 6
+- STR Requirement: 18
+- DEX Requirement: 16
+
+# Gargoyle Flame Hammer 
+- Reinforcement: Twinkling Titanite
+- Weight: 11
+- STR Requirement: 28
+- INT Requirement: 22
+- FTH Requirement: 22
+
+# Morne's Great Hammer 
+- Reinforcement: Twinkling Titanite
+- Weight: 24 
+- STR Requirement: 35
+- FTH Requirement: 40
+
+# Smough's Great Hammer 
+- Reinforcement: Twinkling Titanite
+- Weight: 24
+- STR Requirement: 42
+
+# Quakestone Hammer 
+- Reinforcement: Twinkling Titanite
+- Weight: 15
+- STR Requirement: 38
+
+# Ledo's Great Hammer
+- Reinforcement: Twinkling Titanite
+- Weight: 28
+- STR Requirement: 36
+
+# Vordt's Great Hammer 
+- Reinforcement: Titanite Scale
+- Weight: 17
+- STR Requirement: 32
+
+# Old King's Great Hammer 
+- Reinforcement: Titanite Scale
+- Weight: 18.5
+- STR Requirement: 38
+- INT Requirement: 20
+- FTH Requirement: 20
+
+# Demon's Great Hammer  
+- Reinforcement: Titanite Scale
+- Weight: 28.5
+- STR Requirement: 45
+
+# Dragon Tooth 
+- Reinforcement: Dragon Scale
+- Weight: 21
+- STR Requirement: 40
+
+# Greatwood Club 
+- Reinforcement: Twinkling Titanite
+- Weight: 24
+- STR Requirement: 40
+
+#------------------------
+# Spears
+#------------------------
+# Spear
+- Reinforcement: Titanite
+- Weight: 4.5
+- STR Requirement: 11
+- DEX Requirement: 10
+
+# Winged Spear
+- Reinforcement: Titanite
+- Weight: 6
+- STR Requirement: 12
+- DEX Requirement: 15
+
+# Partizan
+- Reinforcement: Titanite
+- Weight: 6.5
+- STR Requirement: 14
+- DEX Requirement: 12
+
+# Rotten Ghru Spear
+- Reinforcement: Titanite
+- Weight: 5.5
+- STR Requirement: 10
+- DEX Requirement: 12
+
+# Four-pronged Plow
+- Reinforcement: Titanite
+- Weight: 6.5
+- STR Requirement: 13
+- DEX Requirement: 11
+
+# Saint Bident 
+- Reinforcement: Titanite
+- Weight: 8.5
+- STR Requirement: 12
+- DEX Requirement: 12
+- FTH Requirement: 16
+
+# Follower Javelin
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 12
+- DEX Requirement: 12
+
+# Gargoyle Flame Spear
+- Reinforcement: Twinkling Titanite
+- Weight: 9.5
+- STR Requirement: 20
+- DEX Requirement: 26
+- INT Requirement: 20
+- FTH Requirement: 20
+
+# Soldering Iron
+- Reinforcement: Twinkling Titanite
+- Weight: 5
+
+# Yorshka's Spear
+- Reinforcement: Twinkling Titanite
+- Weight: 6.5
+- STR Requirement: 18
+- DEX Requirement: 18
+- INT Requirement: 28
+- FTH Requirement: 28
+
+# Dragonslayer Spear
+- Reinforcement: Twinkling Titanite
+- Weight: 9.5
+- STR Requirement: 24
+- DEX Requirement: 26
+
+# Dragonslayer Swordspear
+- Reinforcement: Titanite Scale
+- Weight: 14.5
+- STR Requirement: 25
+- DEX Requirement: 30
+- FTH Requirement: 30
+
+# Golden Ritual Spear
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- STR Requirement: 10
+- DEX Requirement: 10
+- INT Requirement: 18
+- FTH Requirement: 14
+
+# Tailbone Spear
+- Reinforcement: Dragon Scale
+- Weight: 4.5
+- STR Requirement: 25
+- DEX Requirement: 20
+
+# Arstor's Spear
+- Reinforcement: Titanite Scale
+- Weight: 6.5
+- STR Requirement: 26
+- DEX Requirement: 32
+
+# Drang Twinspears
+- Reinforcement: Titanite
+- Weight: 8
+- STR Requirement: 14
+- DEX Requirement: 20
+
+# Pike
+- Reinforcement: Titanite
+- Weight: 7.5
+- STR Requirement: 18
+- DEX Requirement: 14
+
+# Greatlance
+- Reinforcement: Titanite
+- Weight: 10.5
+- STR Requirement: 21
+- DEX Requirement: 16
+
+# Lothric Knight Long Spear
+- Reinforcement: Titanite
+- Weight: 8
+- STR Requirement: 14
+- DEX Requirement: 20
+
+# Lothric War Banner
+- Reinforcement: Titanite
+- Weight: 5
+- STR Requirement: 14
+- DEX Requirement: 14
+
+# Ringed Knight Spear
+- Reinforcement: Twinkling Titanite
+- Weight: 9
+- STR Requirement: 22
+- DEX Requirement: 28
+
+# Firelink Spear
+- Reinforcement: Titanite Scale
+- Weight: 8
+- STR Requirement: 25
+- DEX Requirement: 25
+- INT Requirement: 25
+- FTH Requirement: 25
+
+# Irithyll Lance  
+- Reinforcement: Twinkling Titanite
+- Weight: 8
+- STR Requirement: 18
+- DEX Requirement: 24
+
+#------------------------
+# Halberds
+#------------------------
+# Lucerne
+- Reinforcement: Titanite
+- Weight: 7.5
+- STR Requirement: 15
+- DEX Requirement: 13
+
+# Glaive
+- Reinforcement: Titanite
+- Weight: 11
+- STR Requirement: 17
+- DEX Requirement: 11
+
+# Halberd
+- Reinforcement: Titanite
+- Weight: 8
+- STR Requirement: 16
+- DEX Requirement: 12
+
+# Black Knight Glaive
+- Reinforcement: Twinkling Titanite
+- Weight: 9
+- STR Requirement: 35
+- DEX Requirement: 35
+
+# Winged Knight Halberd
+- Reinforcement: Titanite
+- Weight: 14
+- STR Requirement: 26
+- DEX Requirement: 16
+
+# Gundyr's Halberd
+- Reinforcement: Titanite Scale
+- Weight: 13
+- STR Requirement: 36
+- DEX Requirement: 24
+
+# Crescent Axe
+- Reinforcement: Titanite
+- Weight: 6
+- STR Requirement: 14
+- DEX Requirement: 12
+
+# Crucifix of the Mad King
+- Reinforcement: Twinkling Titanite
+- Weight: 12
+- STR Requirement: 19
+- INT Requirement: 27
+- FTH Requirement: 33
+
+# Immolation Tinder
+- Reinforcement: Twinkling Titanite
+- Weight: 10
+- STR Requirement: 18
+- DEX Requirement: 18
+- INT Requirement: 25
+- FTH Requirement: 25
+- Can cast Sorceries and Pyromancies
+
+# Ancient Dragon Halberd
+- Reinforcement: Dragon Scale
+- Weight: 12
+- STR Requirement: 35
+- DEX Requirement: 18
+
+# Splitleaf Glaive
+- 
+
+#------------------------
+# Reapers
+#------------------------
+# Friede's Great Scythe
+- Reinforcement: Titanite Scale
+- Weight: 13
+- STR Requirement: 12
+- DEX Requirement: 30
+- INT Requirement: 30
+- FTH Requirement: 30
+
+# Great Corvian Scythe
+- Reinforcement: Titanite
+- Weight: 9
+- STR Requirement: 16
+- DEX Requirement: 18
+
+# Great Scythe
+- Reinforcement: Titanite
+- Weight: 7
+- STR Requirement: 14
+- DEX Requirement: 14
+
+# Pontiff Knight Great Scythe
+- Reinforcement: Twinkling Titanite
+- Weight: 7.5
+- STR Requirement: 18
+- DEX Requirement: 32
+
+# Lothric's Scythe
+- Reinforcement: Titanite Scale
+- Weight: 12
+- STR Requirement: 18
+- DEX Requirement: 20
+- FTH Requirement: 40
+
+#------------------------
+# Fists
+#------------------------
+# Caestus
+- Reinforcement: Titanite
+- Weight: 0.5
+- STR Requirement: 5
+- DEX Requirement: 8
+
+# Demon's Fist
+- Reinforcement: Titanite Scale
+- Weight: 5.5
+- STR Requirement: 30
+- DEX Requirement: 16
+
+# Dragon's Grasp 
+- Reinforcement: Dragon Scale
+- Weight: 5.5
+- STR Requirement: 30
+- DEX Requirement: 18
+- FTH Requirement: 30
+
+# Censuring Palm
+- Reinforcement: Titanite
+- Weight: 0
+
+# Dark Hand
+- Reinforcement: None
+- Weight: 0
+
+#------------------------
+# Claws
+#------------------------
+# Claw
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 6
+- DEX Requirement: 14
+
+# Manikin Claws
+- Reinforcement: Titanite
+- Weight: 1.5
+- STR Requirement: 8
+- DEX Requirement: 18
+
+# Crow Talons
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 6
+- DEX Requirement: 19
+
+#------------------------
+# Whips
+#------------------------
+# Whip
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 6
+- DEX Requirement: 14
+
+# Notched Whip
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 6
+- DEX Requirement: 19
+
+# Spotted Whip
+- Reinforcement: Twinkling Titanite
+- Weight: 2.5
+- STR Requirement: 10
+- DEX Requirement: 26
+
+# Witch's Locks
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- STR Requirement: 10
+- DEX Requirement: 24
+- INT Requirement: 20
+- FTH Requirement: 20
+
+# Rose of Ariandel
+- Reinforcement: Titanite Scale
+- Weight: 3.5
+- STR Requirement: 10
+- DEX Requirement: 12
+- FTH Requirement: 30
+- Can cast Miracles
+
+#------------------------
+# Battlestaves
+#------------------------
+# Quarterstaff
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 8
+- DEX Requirement: 7
+
+# Corvian Longstaff 
+- Reinforcement: Twinkling Titanite
+- Weight: 4.5
+- STR Requirement: 12
+- DEX Requirement: 12
+
+# Whitetree Limb    
+- Reinforcement: Twinkling Titanite
+- Weight: 8  
+- STR Requirement: 28
+- DEX Requirement: 12
+  
+# Murky Warstaff    
+- Reinforcement: Twinkling Titanite
+- Weight: 2  
+- STR Requirement: 8
+- DEX Requirement: 8
+- INT Requirement: 12
+- FTH Requirement: 12
+  
+# Longstaff of Rosaria 
+- Reinforcement: Titanite Scale
+- Weight: 6.4   
+- STR Requirement: 12
+- DEX Requirement: 16
+- FTH Requirement: 20
+
+# Staff of Serpents  
+- Reinforcement: Dragon Scale
+- Weight: 4.5
+- STR Requirement: 24
+- DEX Requirement: 20
+
+# Archdeacon's Longstaff
+- Reinforcement: Twinkling Titanite
+- Weight: 6.2
+- STR Requirement: 14
+- DEX Requirement: 14
+- FTH Requirement: 32
+
+# Heretic's Warstaff  
+- Reinforcement: Twinkling Titanite 
+- Weight: 3
+- STR Requirement: 18
+- DEX Requirement: 12
+
+# Witch's Staff   
+- Reinforcement: Twinkling Titanite
+- Weight: 2.8 
+- STR Requirement: 12
+- DEX Requirement: 16
+- INT Requirement: 20
+- FTH Requirement: 20
+
+#------------------------
+# Bows
+#------------------------
+# Short Bow
+- Reinforcement: Titanite
+- Weight: 2
+- STR Requirement: 8
+- DEX Requirement: 16
+
+# Composite Bow
+- Reinforcement: Titanite
+- Weight: 3.5
+- STR Requirement: 15
+- DEX Requirement: 15
+
+# Longbow
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 16
+- DEX Requirement: 8
+
+# Black Bow of Pharis
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 10
+- DEX Requirement: 30
+
+# White Birch Bow
+- Reinforcement: Twinkling Titanite
+- Weight: 2.5
+- STR Requirement: 12
+- DEX Requirement: 18
+- FTH Requirement: 32
+
+# Darkmoon Longbow
+- Reinforcement: Titanite Scale
+- STR Requirement: 10
+- DEX Requirement: 18
+- INT Requirement: 32
+
+# Dragonrider Bow
+- Reinforcement: Twinkling Titanite
+- Weight: 6.5
+- STR Requirement: 28
+- DEX Requirement: 16
+
+#------------------------
+# Greatbows
+#------------------------
+# Dragonslayer Greatbow
+- Reinforcement: Twinkling Titanite
+- Weight: 10
+- STR Requirement: 32
+- DEX Requirement: 20
+
+# Millwood Greatbow
+- Reinforcement: Twinkling Titanite
+- Weight: 9
+- STR Requirement: 30
+- DEX Requirement: 12
+
+# Onislayer Greatbow
+- Reinforcement: Twinkling Titanite
+- Weight: 7.5
+- STR Requirement: 18
+- DEX Requirement: 32
+
+#------------------------
+# Crossbows
+#------------------------
+# Birch Crossbow
+- Reinforcement: Titanite
+- Weight: 3
+- STR Requirement: 10
+- DEX Requirement: 16
+
+# Oak Crossbow
+- Reinforcement: Titanite
+- Weight: 4.5
+- STR Requirement: 16
+- DEX Requirement: 10
+
+# Sniper Crossbow
+- Reinforcement: Titanite
+- Weight: 7.5
+- STR Requirement: 16
+- DEX Requirement: 16
+
+# Arbalest
+- Reinforcement: Twinkling Titanite
+- Weight: 6
+- STR Requirement: 25
+- DEX Requirement: 25
+
+# Knight's Crossbow
+- Reinforcement: Titanite
+- Weight: 4
+- STR Requirement: 18
+- DEX Requirement: 16
+- FTH Requirement: 26
+
+# Avelyn
+- Reinforcement: Twinkling Titanite
+- Weight: 7.5
+- STR Requirement: 32
+- DEX Requirement: 32
+
+# Repeating Crossbow
+- Reinforcement: Titanite Scale
+- Weight: 7.5
+- STR Requirement: 40
+- DEX Requirement: 40
+
+#------------------------
+# Staves
+#------------------------
+# Sorcerer's Staff
+- Reinforcement: Titanite
+- Weight: 2
+- INT Requirement: 10
+- Can cast Sorceries.
+
+# Archdeacon's Great Staff
+- Reinforcement: Twinkling Titanite
+- Weight: 2.5
+- FTH Requirement: 40
+- Can cast Sorceries.
+
+# Court Sorcerer's Staff
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- INT Requirement: 36
+- Can cast Sorceries.
+
+# Heretic's Staff
+- Reinforcement: Titanite
+- Weight: 3
+- INT Requirement: 12
+- FTH Requirement: 12
+- Can cast Sorceries, Pyromancies and Miracles.
+
+# Izalith Staff
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- INT Requirement: 25
+- FTH Requirement: 25
+- Can cast Sorceries and Pyromancies.
+
+# Man-grub Staff
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- INT Requirement: 36
+- Can cast Sorceries.
+
+# Mendicant's Staff
+- Reinforcement: Titanite
+- Weight: 2.5
+- INT Requirement: 40
+- Can cast Sorceries.
+
+# Murky Longstaff
+- Reinforcement: Titanite
+- Weight: 3
+- INT Requirement: 24
+- FTH Requirement: 24
+- Can cast Sorceries.
+
+# Preacher's Right Arm
+- Reinforcement: Twinkling Titanite
+- Weight: 3
+- STR Requirement: 12
+- FTH Requirement: 28
+- Can cast Sorceries.
+
+# Sage's Crystal Staff
+- Reinforcement: Twinkling Titanite
+- Weight: 2.5
+- INT Requirement: 50
+- Can cast Sorceries.
+
+# Storyteller's Staff
+- Reinforcement: Titanite
+- Weight: 2.5
+- INT Requirement: 20
+- Can cast Sorceries.
+- Effect: Increases Poison resistance
+
+# Witchtree Branch
+- Reinforcement: Twinkling Titanite
+- Weight: 2
+- INT Requirement: 16
+- Can cast Sorceries.
+- Effect: Increases casting speed
+
+# Veiled Staff
+- Reinforcement: Titanite
+- Weight: 2
+- INT Requirement: 10
+- Can cast Sorceries.
+
+#------------------------
+# Talismans
+#------------------------
+# Talisman
+- Reinforcement: Titanite
+- Weight: 0.5
+- FTH Requirement: 10
+- Can cast Miracles.
+
+# Canvas Talisman
+- Reinforcement: Titanite
+- Weight: 0.5
+- FTH Requirement: 20
+- Can cast Miracles.
+
+# Saint's Talisman
+- Reinforcement: Titanite
+- Weight: 0.5
+- FTH Requirement: 28
+- Can cast Miracles.
+
+# Sunless Talisman
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- FTH Requirement: 38
+- Can cast Miracles.
+
+# Sunlight Talisman
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- FTH Requirement: 36
+- Effect: Increases damage of miracles by 5%
+- Can cast Miracles.
+
+# White Hair Talisman
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- INT Requirement: 26
+- FTH Requirement: 26
+- Can cast Miracles and Pyromancies.
+
+# Veiled Talisman
+- Reinforcement: Titanite
+- Weight: 0.5
+- FTH Requirement: 10
+- Can cast Miracles.
+
+#------------------------
+# Chimes
+#------------------------
+# Priest's Chime
+- Reinforcement: Titanite
+- Weight: 0.5
+- FTH Requirement: 10
+- Can cast Miracles.
+
+# Cleric's Sacred Chime
+- Reinforcement: Titanite
+- Weight: 0.5
+- FTH Requirement: 20
+- Can cast Miracles.
+
+# Saint-tree Bellvine
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- FTH Requirement: 16
+- Can cast Miracles.
+- Effect: Increases casting speed
+
+# Caitha's Chime 
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- INT Requirement: 50
+- FTH Requirement: 50
+- Can cast Miracles.
+
+# Crystal Chime
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- INT Requirement: 40
+- FTH Requirement: 40
+- Can cast Sorceries and Miracles.
+
+# Yorshka's Chime
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- FTH Requirement: 50
+- Can cast Miracles.
+- Effect: Reduces Miracle FP cost by 10%
+
+# Sacred Chime of Filianore
+- Reinforcement: Twinkling Titanite
+- Weight: 0.5
+- FTH Requirement: 40
+- Can cast Miracles.
+
+#------------------------
+# Pyromancy Flames
+#------------------------
+# Pyromancy Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Can cast Pyromancies.
+- Scales Spell Buff with INT and FTH
+
+# Pyromancer's Parting Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Can cast Pyromancies.
+- Scales Spell Buff with INT and FTH
+
+# Veiled Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Can cast Pyromancies.
+- Scales Spell Buff with INT and FTH
+
+# Black Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Can cast Pyromancies.
+- Scales Spell Buff with INT and FTH
+- Effect: boosts Dark pyromancies by 10%
+
+# Holy Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Can cast Pyromancies.
+- Alters Spell Buff with FTH
+
+# Sorcerous Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Can cast Pyromancies.
+- Alters Spell Buff with INT
+
+# Fool's Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Can cast Pyromancies.
+- Alters Spell Buff with LCK
+
+#------------------------
+# Arrows
+#------------------------
+# Wood Arrow
+- Physical Damage: 30
+
+# Feather Arrow
+- Physical Damage: 40
+
+# Standard Arrow
+- Physical Damage: 50
+
+# Large Arrow
+- Physical Damage: 60
+
+# Moonlight Arrow
+- Magic Damage: 80
+
+# Fire Arrow
+- Fire Damage: 80
+
+# Lightning Arrow
+- Lightning Damage: 80
+
+# Dark Arrow
+- Dark Damage: 80
+
+# Poison Arrow
+- Physical Damage: 30
+- Poison: 50
+
+# Lacerating Arrow
+- Physical Damage: 30
+- Bleed: 25
+
+# Frost Arrow
+- Physical Damage: 30
+- Frost: 50
+
+#------------------------
+# Greatarrows
+#------------------------
+# Dragonslayer Greatarrow
+- Physical Damage: 150
+
+# Dragonslayer Lightning Arrow
+- Lightning Damage: 150
+
+# Onislayer Greatarrow
+- Physical Damage: 100
+
+# Millwood Greatarrow
+- Physical Damage: 150
+
+#------------------------
+# Bolts
+#------------------------
+# Standard Bolt
+- Physical Damage: 60
+
+# Heavy Bolt
+- Physical Damage: 80
+
+# Sniper Bolt
+- Physical Damage: 70
+- Stamina Damage: 25
+- Poise Damage: 50
+
+# Wood Bolt
+- Physical Damage: 50
+
+# Lightning Bolt
+- Lightning Damage: 150
+
+# Splintering Bolt
+- Physical Damage: 40
+
+# Exploding Bolt
+- Fire Damage: 150
+

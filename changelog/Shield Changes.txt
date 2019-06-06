@@ -1,0 +1,143 @@
+﻿#------------------------
+# Infusions
+#------------------------
+# Clarity
+- Reduces Stability by 10%
+- Grants 1 (+0) to 5 (+10) FP per second
+
+# Rejuvenation
+- Reduces Stability by 10%
+- Grants 5 (+0) to 15 (+10) Stamina Recovery
+
+# Restoration
+- Reduces Stability by 10%
+- Grants 1 (+0) to 5 (+10) HP per second
+
+# Respite
+- Reduces Stability by 10%
+- Grants 1% (+0) to 10% (+10) Equip Load
+
+# Lucidity
+- Reduces Stability by 10%
+- Grants 10% (+0) to 20% (+10) reduction to weapon/spell FP cost
+
+#------------------------
+# Small Shields
+#------------------------
+# Dragonhead Shield 
+- Effect: boosts Fire damage by 5%
+
+# Eastern Iron Shield 
+- Effect: reduces weapon stamina consumption by 10%
+
+# Elkhorn Round Shield 
+- Effect: grants 10% Physical Absorption
+
+# Golden Falcon Shield 
+- Effect: grants 5 Luck
+
+# Hawkwood's Shield
+- Effect: grants weapon stamina consumption reduction of 10%
+
+# Llewellyn Shield 
+- Effect: grants 10% Magic Absorption
+
+# Sacred Bloom Shield 
+- Effect: grants 10% increased Max FP.
+
+#------------------------
+# Medium Shields
+#------------------------
+# Dragon Crest Shield 
+- Effect: boosts Lightning damage by 5%
+
+# Ethereal Oak Shield   
+- Effect: grants 2 HP per second
+
+# Golden Wing Crest Shield 
+- Effect: reduces spell FP cost by 20%.
+
+# Grass Crest Shield    
+- Effect: increases Stamina recovery by 10
+
+# Porcine Shield 
+- Effect: grants 25 Item Discovery
+
+# Shield of Want    
+- Effect: increases souls gain by 20%
+
+# Spirit Tree Crest Shield 
+- Effect: grants 25 FP on enemy kills
+
+# Sunlight Shield 
+- Effect: boosts the potency of miracles by 5%
+
+# Sunset Shield 
+- Effect: grants 10 Stamina recovery
+
+# Wargod Wooden Shield 
+- Effect: boosts Physical damage by 5%
+
+#------------------------
+# Greatshields
+#------------------------
+# Ancient Dragon Greatshield
+- Effect: grants 2 HP per second
+
+# Curse Ward Greatshield 
+- Effect: increase damage against Hollow enemies by 25%
+
+# Dragonhead Greatshield 
+- Effect: boosts Physical damage by 10%
+
+# Greatshield of Glory 
+- Effect: grants 10% Physical, Magic, Fire, Lightning and Dark Absorption
+
+# Moaning Shield 
+- Effect: Grants 15% increased damage whilst below 25% HP
+
+# Twin Dragon Greatshield 
+- Effect: Grants 50 item discovery
+
+# Wolf Knight's Greatshield
+- Effect: increases Resistances 
+
+# Yhorm's Greatshield 
+- Effect: grants 10% increased Max HP.
+
+#------------------------
+# New Shields
+#------------------------
+# Prince's Shield
+- Reinforced with Titanite Scales
+- Weight: 7
+- Physical Absorption: 100
+- Magic Absorption: 50
+- Fire Absorption: 85
+- Lightning Absorption: 60
+- Dark Absorption: 50
+- Weapon Art: Parry
+- STR Requirement: 14
+
+# Immortal Dragon Greatshield
+- Weight: 12
+- Reinforced with Dragon Scales
+- Physical Absorption: 100
+- Magic Absorption: 60
+- Fire Absorption: 80
+- Lightning Absorption: 80
+- Dark Absorption: 55
+- Weapon Art: Weapon Skill
+- STR Requirement: 36
+- DEX Requirement: 24
+
+# Cleric's Parma
+- Weight: 1.5
+- Reinforced with Titanite
+- Physical Absorption: 55
+- Magic Absorption: 40
+- Fire Absorption: 35
+- Lightning Absorption: 60
+- Dark Absorption: 45
+- Weapon Art: Spell Parry
+- STR Requirement: 7

@@ -1,0 +1,618 @@
+﻿#------------------------
+# Item Changes
+#------------------------
+- All NG+1 and NG+2 +1, 2 and 3 rings have been replaced with Soul of a Great Champion
+- All NG +1, 2 and 3 rings have been replaced with Titanite Slab
+
+#------------------------
+# Covenant
+#------------------------
+# Warriors of Sunlight
+- Rank 1 now grants Sunlight Shield
+- Rank 2 now grants Sunlight Straight Sword
+
+# Aldrich Faithful
+- Rank 2 now grants Archdeacon's Great Staff
+- Rank 1 now grants Archdeacon's Longstaff
+
+# Company of Champions
+- Enemies will begin to drop Cinders. The drop chance goes up the tougher the enemy is.
+
+#------------------------
+# NPC
+#------------------------
+# Black Hand Gotthard
+- Now drops Divine Blessing
+- Now drops Hidden Blessing
+
+# Isabella the Mad
+- Now drops Blight Ring
+
+# Court Sorcerer
+- Now drops Ring of Wisdom
+
+# Knight Slayer Tsorig
+- Now drops Fume Sword
+
+# Darkwraith (High Wall of Lothric)
+- Now drops Abyssal Greatsword
+
+# Crow
+- Medicant's Staff swap now grants a Titanite Slab
+- Eleonora swap now grants I'm sorry Carving
+- Prism Stone swamp now grants Blacksmith Hammer
+
+#------------------------
+# Nestling
+#------------------------
+The Nestling will now take Bone Fragments, Lizard Hides and Resonating Crystals. 
+
+These items allow the the player a chance to roll for items from a large list of possibilities. 
+
+The player can give the Nestling these items an unlimited number of times.
+
+# Bone Fragment - You will always get one of these:
+- Ember 
+- Titanite Shard 
+- Large Titanite Shard 
+- Mossfruit 
+- Bloodred Moss Clump 
+- Purple Moss Clump 
+- Blooming Purple Moss Clump 
+- Rime-blue Moss Clump 
+
+# Bone Fragment - You have a rare chance of one of these:
+- Tailbone Short Sword 
+- Bone Rapier 
+- Anri's Straight Sword 
+- Eleonora 
+- Greatlance 
+- Drang Hammers 
+- Drang Twinspears 
+
+# Bone Fragment - You have a rare chance of one of these:
+- Llewellyn Shield 
+- Dragon Crest Shield 
+- Bonewheel Shield 
+
+# Lizard Hide - You will always get one of these:
+- Ember 
+- Titanite Shard
+- Large Titanite Shard 
+- Titanite Chunk 
+- Dragon Scale 
+- Titanite Scale 
+- Twinkling Titanite 
+- Titanite Slab 
+
+# Lizard Hide - You have a rare chance of one of these:
+- Crescent Moon Sword 
+- Darkdrift 
+- Fume Ultra Greatsword 
+- Witch's Locks 
+- Arbalest 
+- Giant Door Shield 
+- White Birch Bow 
+
+# Lizard Hide - You have a rare chance of one of these:
+- Sacred Bloom Shield 
+- Dragonhead Shield 
+- Spirit Tree Crest Shield 
+- Moaning Shield 
+
+# Resonating Crystal - You will always get one of these:
+- Ember 
+- Divine Blessing 
+- Hidden Blessing 
+- Siegbräu 
+- Brightbug 
+- Repair Powder 
+- Purging Stone 
+- Budding Green Blossom 
+
+# Resonating Crystal - You have a rare chance of one of these:
+- Black Knight Sword 
+- Black Knight Greataxe 
+- Black Knight Glaive 
+- Morne's Great Hammer 
+- Longstaff of Rosaria 
+- Valorheart 
+- Ringed Knight Paired Greatswords 
+
+# Resonating Crystal - You have a rare chance of one of these:
+- Havel's Greatshield 
+- Black Knight Shield 
+- Dragonhead Greatshield 
+
+# Cinder - You will always get one of these:
+- Ember 
+- Titanite Shard
+- Large Titanite Shard 
+- Titanite Chunk 
+- Dragon Scale 
+- Titanite Scale 
+- Twinkling Titanite 
+- Titanite Slab 
+
+# Cinder - You have a rare chance of one of these:
+- Gael's Greatsword 
+- Crystal Sage's Rapier 
+- Storm Curved Sword 
+- Demon's Scar 
+- Frayed Blade 
+- Greatsword of Judgment 
+- Yhorm's Great Machete 
+- Lorian's Greatsword 
+- Lothric's Holy Sword 
+- Wolnir's Holy Sword 
+- Moonlight Greatsword 
+- Farron Greatsword 
+- Dragonslayer Greataxe 
+- Old King's Great Hammer 
+- Dragonslayer Swordspear 
+- Gundyr's Halberd 
+- Freide's Great Scythe 
+- Demon's Fist 
+- Dancer's Enchanted Swords 
+- Darkmoon Longbow 
+- Repeating Crossbow 
+
+#------------------------
+# Vendors
+#------------------------
+# Lord of Cinders
+- The Titanite Slab added to the Shrine Handmaid is now unlimited.
+
+# Shrine Handmaid
+- Now sells Hand Axe
+- Now sells Short Bow
+- Now sells Claw
+- Now sells Caestus
+- Now sells Mace
+- Now sells Great Scythe
+- Now sells Spear
+- Now sells Pike
+- Now sells Rapier
+- Now sells Whip
+- Now sells Veiled Staff
+- Now sells Veiled Talisman
+- Now sells Veiled Flame
+- Now sells Pyromancy Flame
+- Now sells Oozing Pellets
+
+# Yoel/Yuria
+- Londor Braille Divine Tome now costs 5,000 souls
+- Now sells Deep Soul for 5,000 souls
+- Now sells Pursuing Soul for 6,000 souls
+
+# Orbeck
+
+# Cornyx
+- Now sells Singe for 5,000 souls
+
+# Irina
+- Now sells Lightning Bolt for 5,000 souls
+- Now sells Sparks for 15,000 souls
+- Now sells Nibble for 10,000 souls
+
+# Karla
+- Now sells Dark Edge for 5,000 souls
+- Now sells Deep Soul for 5,000 souls
+- Now sells Pursuing Soul for 6,000 souls
+- Now sells Abyssal Edge for 16,000 souls
+- Now sells Great Pursuing Soul for 15,000 souls
+- Now sells Abyssal Burst for 85,000 souls
+
+# Mortician's Ashes
+- Now adds Infusing Essence to the Shrine Handmaid, in unlimited quantity and costing 10,000 souls.
+- Now adds Degrading Essence to the Shrine Handmaid, in unlimied quantity and costing 10,000 souls.
+
+# Dreamchaser Ashes
+- Now adds Brightbugs to the Shrine Handmaid, in unlimited quantity and costing 35,000 souls. 
+
+# Paladin's Ashes
+
+# Grave Warden's Ashes
+
+# Excrement-Covered Ashes
+- Now adds Cursed Pellets to the Shrine Handmaid.
+
+# Prisoner Chief's Ashes
+
+# Xanthous Ashes
+
+# Hollow's Ashes
+
+# Easterner's Ashes
+
+# Dragon Chaser's Ashes
+- Now adds Fire Seeds to the Shrine Handmaid.
+
+# Captain's Ashes
+- Now adds Siegbrau to the Shrine Handmaid.
+
+#------------------------
+# Sorcery
+#------------------------
+# Sage's Scroll
+- Now unlocks Soul Wave for 10,000 souls
+
+# Golden Scroll
+
+# Logan's Scroll
+
+# Crystal Scroll
+- Now unlocks Soul Barrage for 85,000 souls
+
+#------------------------
+# Pyromancy
+#------------------------
+# Great Swamp Pyromancy Tome
+- Now unlocks Seeds of Chaos for 15,000 souls.
+
+# Carthus Pyromancy Tome
+
+# Grave Warden Pyromancy Tome
+
+# Izalith Pyromancy Tome
+- Now unlocks Cataclysm for 85,000 souls
+
+# Quelana Pyromancy Tome
+
+#------------------------
+# Miracles
+#------------------------
+# Braille Divine Tome of Carim
+- Now unlocks Way of White Corona for 25,000 souls
+- Now unlocks Wrath of the Gods for 60,000 souls
+
+# Londor Braille Divine Tome
+
+# Deep Braille Divine Tome
+- Now unlocks Ravenous Gnawing for 30,000 souls
+- Now unlocks Voracious Gnawing for 85,000 souls
+
+# Braille Divine Tome of Lothric
+- Now unlocks Bursting Halo for 85,000 souls
+- Now unlocks Sunlight Barrage for 85,000 souls
+
+#------------------------
+# Transfusion
+#------------------------
+# Soul of the Rotted Greatwood
+- Can transfuse into Hammer of the Great Tree
+- Can transfuse into Greatwood Remnants
+- Can transfuse into Greatwood Club
+
+# Soul of Boreal Valley Vordt 
+- Can transfuse into Snap Freeze
+- Can transfuse into Irithyll Greatsword
+
+# Soul of Aldrich
+- Can transfuse into the Darkmoon Longbow infusion variants
+
+# Soul of the Twin Princes
+- Can transfuse into Lothric's Scythe
+- Can transfuse into Prince's Shield
+- Can transfuse into Elder Dragon Ring
+
+# Soul of Rosaria
+- Can transfuse into Longstaff of Rosaria
+
+# Soul of the Dark Sun
+- Can transfuse into Reversal Ring
+- Can transfuse into Sword of Avowal
+
+# Soul of Cinder
+- Can transfuse into Firelink Dagger
+- Can transfuse into Firelink Spear
+- Can transfuse into Firelink Sword
+- Can transfuse into Firelink Rapier
+- Can transfuse into Ring of Constitution
+- Can transfuse into Ring of Fortitude
+- Can transfuse into Ring of Clarity
+
+# Soul of Demon
+- Can transfuse into Demon's Axe
+
+# Soul of a Stray Demon
+- Can transfuse into Demon's Great Hammer
+
+# Soul of Consumed King Oceiros
+- Can transfuse into Moonlight Sword
+- Can transfuse into Ring of Alacrity
+
+# Soul of Pontiff Sulyvahn
+- Can transfuse into Profaned Sword
+
+# Soul of the Old Demon King
+- No longer transfuses into Chaos Bed Vestiges
+- Can transfuse into Seething Chaos
+
+# Soul of the Deacons
+- No longer transfuses into Deep Soul
+- Can transfuse into Deep Ring
+- Can transfuse into Archdeacon's Bident
+- Can transfuse into Holy Flame
+
+# Soul of the Nameless King
+- Can transfuse into Ring of the Sun
+- Can transfuse into Dragon's Grasp
+
+# Soul of Yhorm the Giant
+- Can transfuse into Iron Grain Ring
+
+# Soul of Freide
+- Can transfuse into Celestial Ring
+
+# Soul of the Demon Prince
+- No longer transfuses into Seething Chaos
+- Can transfuse into Chaos Bed Vestiges
+- Can transfuse into Ring of Disparity
+
+# Soul of Slave Knight Gael
+- Can transfuse into Halo
+- Can transfuse into Vanquisher Ring
+- Can transfuse into the Repeating Crossbow infusion variants
+
+# Soul of Midir
+- Can transfuse into Abyss Ring
+
+#------------------------
+# Cemetery of Ash
+#------------------------
+- East-West Shield location is now Plank Shield
+- Homeward Bone location is now East-West Shield
+- Estus Shard location is now Estus Ring
+- Estus Ring location is now Transposing Kiln
+- Covetous Silver Serpent Ring location is now Estus Shard
+- Soul of a Deserted Corpse location is now Covenant of Champions
+
+#------------------------
+# High Wall of Lothric
+#------------------------
+- Ember location is now Braille Divine Tome of Lothric
+- Undead Hunter Charm location is now Oozing Pellets
+- Estus Shard location is now Green Tearstone Ring
+- Green Blossom location is now Titanite Shard
+- Throwing Knife location is now Titanite Shard
+- Throwing Knife location is now Titanite Shard
+- Titanite Shard location is now Banner of Tenacity
+- Green Blossom location is now Glaive
+- Longbow location now includes Inscribed Rune
+- Added Fire Seed to Binoculars location
+
+#------------------------
+# Undead Settlement
+#------------------------
+- Estus Shard location is now Flame Stoneplate Ring
+- Flame Stoneplate Ring location is now Estus Shard
+- Undead Bone Shard location is now Flynn's Ring
+- Flynn's Ring location is now Undead Bone Shard
+- Alluring Skull location is now Bone Fragment
+- Repair Powder location is now Oozing Pellets
+- Plank Shield location is now Quarterstaff
+- Soul of an Unknown Traveler location is now Yellow Tearstone Ring
+- Northern Set location is now includes Emblem of Vitality
+- Alluring Skull location is now Bulwark Ring
+- Soul of an Unknown Traveler location is now Short Bow
+- Charcoal Pine Bundle location is now Warpick
+- Large Soul of a Deserted Corpse location is now Zweihander
+- Kukri location is now Estoc
+- Rusted Coin location is now Lucky Coin
+- Fading Soul location is now Battle Axe
+- Added Fire Seed to Wargod Wooden Shield location
+- Added Fire Seed to Flame Stoneplate Ring location
+
+#------------------------
+# Road of Sacrifices
+#------------------------
+- Estus Shard location is now Sellsword Twinblades
+- Sellsword Twinblades location is now Estus Shard
+- Soul of an Unknown Traveler location is now Brightbug
+- Shriving Stone location is now Brightbug.
+- Purple Moss Clump location is now Oozing Pellets
+- Gold Pine Bundle location is now Symbol of the Penitent
+- Ring of Sacrifice location is now Varangian Set
+- Green Blossom location is now Violet Tearstone Ring
+- Farron Coal location is now Flame Ember
+- Hollow Gem location is now Scrolls of the Augur
+- Added Fire Seed to Conjurator Set location
+
+#------------------------
+# Farron Keep
+#------------------------
+- Ember location is now Heretic's Staff
+- Ember location is now Speckled Stoneplate Ring
+- Sunlight Talisman location is now Lightning Arrow
+- Rusted Gold Coin location is now Heretic's Warstaff
+- Rotten Pine Resin location is now Runic Seal
+- Prism Stone location is now Corvian Longstaff
+- Rotten Pine Resin location is now Ring of Retaliation
+- Sage's Coal location is now Crystal Ember
+- Added Fire Seed to Iron Flesh location
+
+#------------------------
+# Cathedral of the Deep
+#------------------------
+- Deacons of the Deep now drop 5 Human Dregs instead of the Small Doll
+- Poisonbite Ring location is now Ember
+- Notched Whip location is now Lloyd's Sword Ring
+- Estus Shard location is now Saint Bident
+- Crest Shield location is now Estus Shard
+- Ember location is now Crest Shield
+- Lloyd's Sword Ring location is now Ember
+- Saint Bident location is now Poisonbite Ring
+- Fading Soul location is now Titanite Shard
+- Fading Soul location is now Oozing Pellets
+- Titanite Shard location is now Dragonrider Bow
+- Undead Hunter Charm location is now Hexer Set
+- Duel Charm location is now Ring of Vengeance
+- Exploding Bolt location is now Hammer of Carim
+- Red Bug Pellet location is now Lizard Hide
+- Titanite Shard location is now Fire Seed
+
+#------------------------
+# Catacombs of Carthus
+#------------------------
+- Ember location is now Demonsbane Ring
+- Grave Warden Pyromancy Tome location is now Unholy Remains
+- Ember location is now Grave Warden Pyromancy Tome
+- Titanite Shard location is now Bone Rapier
+- Carthus Rouge location is now Dark Pyromancy Flame
+- Yellow Bug Pellet location is now Crypt Ring
+- Titanite Shard location is now Fire Seed
+- Large Titanite Shard location is now Fire Seed
+
+#------------------------
+# Smouldering Lake
+#------------------------
+- Speckled Stoneplate Ring location is now Estus Shard
+- Dragonrider Bow location is now Power Within
+- Large Titanite Shard location is now Charred Bone
+- Soul of a Crestfallen Knight location is now Witch's Staff
+- Homeward Bone location is now Smouldering Greatsword
+- Ember location is now Ring of Spite
+- Chaos Gem location is now Pact of Chaos
+- Large Titanite Shard location is now Fire Seed
+- Added Fire Seed to Witch's Ring location
+- Added Fire Seed to Sacred Flame location
+
+#------------------------
+# Irithyll of the Boreal Valley
+#------------------------
+- Divine Blessing location is now Golden Dual Swords
+- Painting Guardian's Curved Sword location is now Great Heal
+- Large Soul of a Nameless Soldier location is now Sorcerous Flame
+- Lightning Gem location is now Great Lightning Spear
+- Large Titanite Shard location is now Witchtree Limb
+- Deep Gem location is now Titanite Scale
+- Reversal Ring location is now Soul of the Dark Sun
+- Budding Green Blossom location is now Irithyll Lance
+- Great Heal location is now Wretched Pendant
+- Rusted Gold Coin location is now Infusing Essence
+- Homeward Bone location is now Small Doll
+- Blood Gem location is now Ring of Reprisal
+- Roster of Knights location now includes Yorshka's Hammer
+- Large Titanite Shard location is now Irithyll Warpick
+- Large Titanite Shard location is now Irithyll Mace
+- Kukri location is now Resonating Crystal
+- Fading Soul location is now Fire Seed
+
+#------------------------
+# Irithyll Dungeon
+#------------------------
+- Homeward Bone location is now Four Knights Hammer
+- Purging Stone location is now Notched Whip
+- Dung Pie location is now Murky Warstaff
+- Large Soul of a Nameless Soldier location is now Hallowed Ring
+- Jailer's Key Ring location is now Old Cell Key
+- Old Cell Key location is now Jailer's Key Ring
+- Fading Soul location is now Fire Seed
+- Large Titanite Shard location is now Fire Seed
+
+#------------------------
+# Profaned Capital
+#------------------------
+- Rubbish location is now Undead Bone Shard
+- Undead Bone Shard location is now Rubbish
+- Wrath of the Gods location is now Great Magic Barrier
+- Rusted Gold Coin location is now Golden Ritual Spear 
+- Poison Gem location is now Ring of Londor
+- Shriving Stone location is now Grotto Set
+- Profaned Coal location is now Dark Ember
+- Rusted Coin location is now Fire Seed
+
+#------------------------
+# Anor Londo
+#------------------------
+- Estus Shard location location is now Titanite Chunks
+- Moonlight Arrow location is now Forgotten Pendant
+- Large Soul of a Weary Warrior is now Saint's Set
+- Proof of a Concord Kept location is now Painting Guardian's Curved Sword
+- Rusted Gold Coin is now Ring of Woe 
+- Giant's Coal location is now Lightning Ember
+
+#------------------------
+# Lothric Castle
+#------------------------
+- Braille Divine Tome of Lothric location is now Sunlight Spear
+- Knight's Ring location is now Desiccated Finger
+- Sunlight Medal location is now Red Tearstone Ring
+- Red Tearstone Ring location is now Gotthard Twinswords
+- Titanite Scale location is now Sunlight Talisman
+- Soul of a Crestfallen Knight is now Grand Archives Key
+- Twinkling Titanite location is now Knight's Ring
+- Raw Gem location is now Resonating Crystal
+- Titanite Chunk location is now Fire Seed
+
+#------------------------
+# Consumed King's Garden
+#------------------------
+- Titanite Scale location is now Spirit Amethyst
+- Titanite Chunk location is now Ring of Adversity
+- Titanite Scale location is now Unleash Magic
+
+#------------------------
+# Archdragon Peak
+#------------------------
+- Path of the Dragon statue reward is now a Titanite Slab.
+- Lightning Clutch Ring location is now 50 Dragonslayer Lightning Arrows
+- Great Magic Barrier location is now Immortal Dragon Greatshield
+- Lightning Bolt location is now Ancient Dragon Halberd
+- Titanite Chunk location is now Dragon Scale
+- Titanite Chunk location is now Dragon Scale
+- Titanite Chunk location is now Dragon Scale
+- Twinkling Titanite location is now Staff of Serpents
+- Titanite Slab location is now Estus Shard
+- Homeward Bone location is now Ring of Retribution
+- Ember location is now Tailbone Pick
+- Ember location is now Tailbone Club
+
+#------------------------
+# Untended Graves
+#------------------------
+- Soul of a Crestfallen Knight location is now Dingy Hood
+- Hidden Blessing location is now Burial Knight set
+
+#------------------------
+# Grand Archives
+#------------------------
+- Power Within location is now Ring of Catastrophe
+- Titanite Slab location is now Tome of Sunlight
+- Titanite Chunk location is now Fire Seed
+- Titanite Scale location is now Fire Seed
+
+#------------------------
+# Painted World of Ariandel
+#------------------------
+- Way of White Corona location is now Titanite Slab
+- Snap Freeze location is now Titanite Slab
+
+#------------------------
+# Dreg Heap
+#------------------------
+- Titanite Chunk location is now Titanite Shard
+- Titanite Chunk location is now Titanite Shard
+- Titanite Chunk location is now Titanite Shard
+- Titanite Chunk location is now Titanite Shard
+- Titanite Chunk location is now Titanite Shard
+- Titanite Chunk location is now Large Titanite Shard
+- Titanite Chunk location is now Large Titanite Shard
+- Titanite Chunk location is now Large Titanite Shard
+- Titanite Chunk location is now Large Titanite Shard
+- Titanite Slab location is now Large Titanite Shard
+- Soul of a Weary Warrior locations are now Soul of an Unknown Traveler
+- Soul of a Crestfallen Knight locations are now Soul of a Nameless Soldier
+- Large Soul of a Weary Warrior locations are now Large Soul of an Unknown Traveler
+- Fading Soul location is now Fire Seed
+- Fading Soul location is now Anri's Straight Sword
+
+#------------------------
+# The Ringed City
+#------------------------
+- Lightning Arrow location is now Titanite Slab
+- Havel's Ring+3 location is now Titanite Slab
+- Fading Soul location is now Fire Seed
+- Fading Soul location is now Darkdrift
+- Fading Soul location is now Sunless Talisman

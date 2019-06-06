@@ -1,0 +1,572 @@
+﻿#------------------------
+# Boss Changes
+#------------------------
+- The HP values in brackets here are the HP after area scaling.
+- Absorption percentages are damage taken.
+
+# Iudex Gundyr
+- HP: 2000 [2000]
+- Absorption: Standard:     1 (100%)
+- Absorption: Slash:        1 (100%)
+- Absorption: Strike:       1 (100%)
+- Absorption: Thrust:       1 (100%)
+- Absorption: Magic:        1 (100%)
+- Absorption: Fire:         1 (100%)
+- Absorption: Lightning:    1 (100%)
+- Absorption: Dark:	        1 (100%)
+- Poise:                    185
+- Affected by: Poison, Bleed, Frost
+
+# Vordt of the Boreal Valley
+- HP: 5000 [6000]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       1.05 (105%)
+- Absorption: Thrust:       0.8  (80%)
+- Absorption: Magic:        0.8  (80%)
+- Absorption: Fire:         1.15 (115%)
+- Absorption: Lightning:    0.9  (90%)
+- Absorption: Dark:         1.15 (115%)
+- Poise:                    200
+- Affected by: Poison, Bleed
+
+# Cursed Greatwood
+- HP: 4000 [5200]
+- Absorption: Standard:     1.4  (140%)
+- Absorption: Slash:        1.75 (175%)
+- Absorption: Strike:       1.2  (120%)
+- Absorption: Thrust:       1.75 (175%)
+- Absorption: Magic:        1.2  (120%)
+- Absorption: Fire:         2.1  (210%)
+- Absorption: Lightning:    1.2  (120%)
+- Absorption: Dark:         1.2  (120%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# Crystal Sage
+- HP: 4000 [6400]
+- Absorption: Standard:     1.4  (140%)
+- Absorption: Slash:        1.4  (140%)
+- Absorption: Strike:       1.4  (140%)
+- Absorption: Thrust:       1.4  (140%)
+- Absorption: Magic:        0.75 (75%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# Deacons of the Deep
+- HP: 3000 [4800]
+- Fat Deacon HP: 1000
+- Tall Deacon HP: 800
+- Absorption: Standard:     1.2  (120%)
+- Absorption: Slash:        1.23 (123%)
+- Absorption: Strike:       1.19 (119%)
+- Absorption: Thrust:       1.21 (121%)
+- Absorption: Magic:        0.54 (54%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1.02 (102%)
+- Absorption: Dark:         0.56 (56%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# Abyss Watchers
+- Boss HP: 4000 [7600]
+- Add HP: 1000 [1900]
+- Absorption: Standard:     0.9 (90%)
+- Absorption: Slash:        0.9 (90%)
+- Absorption: Strike:       1.1 (110%)
+- Absorption: Thrust:       1.1 (110%)
+- Absorption: Magic:        1   (100%)
+- Absorption: Fire:         0.9 (90%)
+- Absorption: Lightning:    1   (100%)
+- Absorption: Dark:         0.8 (80%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# High Lord Wolnir
+- HP: 8000 [19360]
+- Absorption: Standard:     0.8 (80%)
+- Absorption: Slash:        0.8 (80%)
+- Absorption: Strike:       0.8 (80%)
+- Absorption: Thrust:       0.8 (80%)
+- Absorption: Magic:        0.7 (70%)
+- Absorption: Fire:         0.7 (70%)
+- Absorption: Lightning:    0.7 (70%)
+- Absorption: Dark:         0.5 (50%)
+- Poise:                    150
+- Affected by: Poison, Bleed, Frost
+
+# Old Demon King
+- HP: 4000 [12000]
+- Absorption: Standard:     1   (100%)
+- Absorption: Slash:        1   (100%)
+- Absorption: Strike:       1   (100%)
+- Absorption: Thrust:       1.2 (120%)
+- Absorption: Magic:        1   (100%)
+- Absorption: Fire:         0.5 (50%)
+- Absorption: Lightning:    1   (100%)
+- Absorption: Dark:         1.2 (120%)
+- Poise:                    170
+- Affected by: Poison, Bleed
+
+# Pontiff Sulyvahn
+- Boss HP: 4000 [10000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       1.2  (120%)
+- Absorption: Magic:        0.8  (80%)
+- Absorption: Fire:         0.8  (80%)
+- Absorption: Lightning:    0.8  (80%)
+- Absorption: Dark:         0.8  (80%)
+- Poise:                    150
+- Affected by: Poison, Bleed, Frost
+
+# Pontiff Sulyvahn (Clone)
+- HP: 2000 [5000]
+- Absorption: Standard:     0.5  (50%)
+- Absorption: Slash:        0.5  (50%)
+- Absorption: Strike:       0.5  (50%)
+- Absorption: Thrust:       0.5  (50%)
+- Absorption: Magic:        0.8  (80%)
+- Absorption: Fire:         0.8  (80%)
+- Absorption: Lightning:    0.8  (80%)
+- Absorption: Dark:         0.8  (80%)
+- Poise:                    84
+- Affected by: Poison, Bleed, Frost
+
+# Aldrich, Devourer of Gods
+- HP: 5000 [15000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1.1  (110%)
+- Absorption: Strike:       0.8  (80%)
+- Absorption: Thrust:       1.1  (110%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         1.15 (115%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         0.5  (50%)
+- Poise:                    200
+- Affected by: Poison, Bleed, Frost
+
+# Yhorm the Giant
+- Increased damage dealt with normal attacks.
+- Reduced damage multiplier from head hits.
+- HP: 5000 [13500]
+- Absorption: Standard:     0.9  (90%)
+- Absorption: Slash:        0.9  (90%)
+- Absorption: Strike:       1.15 (115%)
+- Absorption: Thrust:       0.9  (90%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    1.1  (110%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    350
+- Affected by: Poison, Bleed, Frost
+
+# Dancer of the Boreal Valley
+- HP: 3000 [9000]
+- Absorption: Standard:     0.9  (90%)
+- Absorption: Slash:        0.9  (90%)
+- Absorption: Strike:       0.8  (80%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        0.9  (90%)
+- Absorption: Fire:         0.9  (90%)
+- Absorption: Lightning:    0.9  (90%)
+- Absorption: Dark:         1.1  (110%)
+- Poise:                    170
+- Affected by: Poison, Bleed
+
+# Oceiros, the Consumed King
+- HP: 4000 [12000]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       0.8  (80%)
+- Absorption: Thrust:       1.1  (110%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1.2  (120%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    120
+- Affected by: Poison, Bleed, Frost
+
+# Dragonslayer Armour
+- HP: 4000 [12000]
+- Absorption: Standard:     0.7 (70%)
+- Absorption: Slash:        0.7 (70%)
+- Absorption: Strike:       1   (100%)
+- Absorption: Thrust:       0.8 (80%)
+- Absorption: Magic:        1   (100%)
+- Absorption: Fire:         1   (100%)
+- Absorption: Lightning:    0.5 (50%)
+- Absorption: Dark:         0.5 (50%)
+- Poise:                    300
+- Affected by: Poison, Bleed, Frost
+
+# Ancient Wyvern
+- Removed damage reduction on lower parts.
+- HP: 2000 [10000]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       0.9  (90%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    1.2  (120%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# King of the Storm
+- HP: 500 [2500]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       0.9  (90%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         0.75 (75%)
+- Absorption: Lightning:    1.2  (120%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# Nameless King
+- HP: 3000 [15000]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       0.8  (80%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         0.75 (75%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    215
+- Affected by: Poison, Bleed, Frost
+
+# Champion Gundyr
+- HP: 3000 [12000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    185
+- Affected by: Poison, Bleed, Frost
+
+# Lorian, Elder Prince
+- Phase 1 HP: 2000 [10000]
+- Phase 2 HP: 2000 [10000]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       0.8  (80%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         0.5  (50%)
+- Poise:                    210
+- Affected by: Poison, Bleed, Frost
+
+# Lothric, Younger Prince
+- HP: 1000 [5000]
+- Absorption: Standard:     1.2  (120%)
+- Absorption: Slash:        1.2  (120%)
+- Absorption: Strike:       1.2  (120%)
+- Absorption: Thrust:       1.2  (120%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         0.5  (50%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# Soul of Cinder
+- HP: 3000 [15000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    250
+- Affected by: Poison, Bleed, Frost
+
+# Sister Friede
+- HP: 2000 [8000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       1.1  (110%)
+- Absorption: Magic:        0.75 (75%)
+- Absorption: Fire:         0.75 (75%)
+- Absorption: Lightning:    0.75 (75%)
+- Absorption: Dark:         0.75 (75%)
+- Poise:                    100
+- Affected by: Poison, Bleed
+
+# Father Ariandel
+- HP: 1000 [4000]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       0.8  (80%)
+- Absorption: Thrust:       0.8  (80%)
+- Absorption: Magic:        1.2  (120%)
+- Absorption: Fire:         0.8  (80%)
+- Absorption: Lightning:    1.2  (120%)
+- Absorption: Dark:         1.2  (120%)
+- Poise:                    250
+- Affected by: Poison, Bleed, Frost
+
+# Gravetender Greatwolf
+- HP: 1000 [4000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         1.2  (120%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    170
+- Affected by: Poison, Bleed, Frost
+
+# Demon Princes
+- HP: 2000 [8000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1.2  (120%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        0.9  (90%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    0.9  (90%)
+- Absorption: Dark:         0.9  (90%)
+- Affected by: Poison, Bleed
+
+# Darkeater Midir
+- HP: 4000 [20000]
+- Absorption: Standard:     0.5  (50%)
+- Absorption: Slash:        0.5  (50%)
+- Absorption: Strike:       0.5  (50%)
+- Absorption: Thrust:       0.5  (50%)
+- Absorption: Magic:        0.75 (75%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         0.5  (50%)
+- Poise:                    0
+- Affected by: Poison, Bleed, Frost
+
+# Slave Knight Gael
+- HP: 3000 [15000]
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         1    (100%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         1    (100%) / 0.5 (50%)
+- Poise:                    150
+- Affected by: Poison, Bleed, Frost
+
+# Stray Demon
+- HP: 4000 [7600]
+- Absorption: Standard:     0.8  (80%)
+- Absorption: Slash:        0.8  (80%)
+- Absorption: Strike:       1.2  (120%)
+- Absorption: Thrust:       0.8  (80%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         0.75 (75%)
+- Absorption: Lightning:    0.75 (75%)
+- Absorption: Dark:         1    (100%)
+- Poise:                    260
+- Affected by: Poison, Bleed
+
+#------------------------
+# Enemy Changes
+#------------------------
+# Mimic
+- Ring of the Evil Eye +3 mimic now drops Titanite Slab 
+- Dragonslayer Lightning Arrow mimic now drops Lightning Clutch Ring
+- Sunlight Straight Sword mimic now drops Sacred Oath
+- Titanite Scale mimic in Irithyll Dungeon now drops Engraved Dagger
+- Golden Ritual Spear mimic in Irithyll now drops Great Deep Soul
+- Deep Battle Axe mimic now drops the Covetous Silver Serpent Ring
+- Rusted Gold Coin mimic now drops Giant Set
+- Titanite Scale mimic in Lothric Castle now drops Lothric Candlestick
+
+# Crystal Lizard
+- All previously Gem dropping lizards now drop a reinforcement material.
+
+# Demon
+- The Undead Settlement demon now drops Soul of a Demon
+
+# Carthus Swordsmen
+- Drop Vertebra Shackle more commonly.
+- Can now drop Bone Fragments
+
+# Ghru
+- Drop Wolf's Blood Swordgrass more commonly.
+
+# Lothric Knight
+- Drop Sunlight Medals more commonly.
+
+# Silver Knight
+- Drop Proof of a Concord Kept more commonly.
+- Can now drop Dragonslayer Greatbow.
+
+# Darkwraith
+- Drop Pale Tongue more commonly.
+
+# Deacons of the Deep
+- Drop Human Dregs more commonly
+
+# Murkmen
+- Drop Human Dregs more commonly
+
+# Ringed Knight
+- Drop Filianore's Spear Ornament more commonly
+
+# Hollow Manservant
+- Can now drop Footman's Hood
+- Can now drop Footman's Overcoat
+- Can now drop Footman's Bracelet
+- Can now drop Footman's Trousers
+- Can now drop Machete
+- Can now drop Lizard Hide
+
+# Archive Scholar
+- Can now drop Scholar's Shed Skin
+- Can now drop Oozing Pellets
+- Can now drop Resonating Crystal
+- Can now drop Infusing Essence
+- Can now drop Degrading Essence
+
+# Giant Serpent-man
+- Can now drop Titanite Slabs
+- Can now drop Lizard Hide
+
+# Serpent-man Summoner
+- Can now drop Man Serpent's Mask
+- Can now drop Man Serpent's Robes
+- Can now drop Dragon Scales
+- Can now drop Lizard Hide
+
+# Serpent Men
+- Can now drop Dragon Scales
+- Can now drop Lizard Hide
+
+# Alva, Seeker of the Spurned (Ringed City) 
+- Drops Titanite Slab instead of Wolf Ring+3
+
+# Pus of Man
+- Can now drop Brightbugs.
+
+# Irithyllian Slave
+- Can now drop Oozing Pellet
+- Can now drop Cursed Pellet
+- Can now drop Bone Fragment
+
+# Sage Prentice
+- Can now drop Resonating Crystal
+
+# Sage's Devout
+- Can now drop Quarterstaff
+- Can now drop Resonating Crystal
+- Can now drop Infusing Essence
+- Can now drop Degrading Essence
+
+# Undead Cleric
+- Can now drop Cleric's Parma
+
+# Monstrosity of Sin
+- Can now drop Titanite Chunks
+
+# Pontiff Knight
+- Can now drop Pontiff Knight Greatsword.
+- Can now drop Twinkling Titanite.
+
+# Angel Pilgrim
+- Deals 300 (900) Magic damage.
+
+# Cathedral Knight
+- Now drop Large Titanite Shards rather than Titanite Shards
+
+# Ghru
+- Now drop Large Titanite Shards rather than Titanite Shards
+
+# Smouldering Ghru
+- Now drop Titanite Chunks rather than Large Titanite Shards
+
+# Peasant Hollow
+- Can now drop Titanite Shards
+- Can now drop Wooden Mallet
+
+# Wretch
+- Can now drop Dragon Scales
+- Can now drop Lizard Hide
+
+# Smouldering Rotten Flesh
+- Now drop Large Titanite Shards rather than Titanite Shards
+
+# Gargoyle
+- Can now drop Twinkling Titanite rarely
+- Can now drop Cinder
+
+# Great Crab (Smouldering Lake)
+- Can now drop Titanite Scales rarely
+
+# Demon Cleric
+- Can now drop Titanite Chunks
+
+# Winged Knight
+- Can now drop Resonating Crystal
+
+# Winged Knight (Grand Archives)
+- Can now drop Titanite Slabs
+- Can now drop Dragonrider Bow.
+
+# Lothric Wyvern (High Wall of Lothric)
+- Now drops Tailbone Sword
+
+# Cathedral Evangelist
+- Can now drop Missionary Axe
+- Can now drop Resonating Crystal
+
+# Hollow Slave
+- Can now drop Bone Fragment
+
+# Lycanthrope
+- Can now drop Lizard Hide
+
+# Bonewheel Skeleton
+- Can now drop Bone Fragment
+
+# Corvian
+- Can now drop Bone Fragment
+
+# Jailer Handmaid
+- Can now drop Lizard Hide
+
+# Cage Spider
+- Can now drop Bone Fragment
+
+# Irithyll Fire Witch
+- Can now drop Resonating Crystal
+
+# Judicator
+- Now drop Titanite Slab as their one time drops
+
+# Elder Ghru
+- Can now drop Black Bow of Pharis.
+
+# Millwood Knight
+- Can now drop Millwood Greatbow.
+
+# Tree Women
+- Can now drop Fire Seeds.

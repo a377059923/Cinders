@@ -1,0 +1,439 @@
+﻿#------------------------
+# General Changes
+#------------------------
+- All weapons and shields can now be buffed.
+- Armor now acts as Dark Souls 1 armor does, preventing stagger until it's poise is drained from enemy attacks.
+- FP now automatically regenerates at a rate of 1 FP per second. Wielding a Spell Tool adds an additional 1 FP per second.
+- Leveling cost has been changed.
+
+#------------------------
+# Class Selection Changes
+#------------------------
+- Cleric now starts with Lightning Spear rather than Force.
+- Sorcerer now starts with Farron Flashsword rather than Heavy Soul Arrow.
+- Cracked Red Eye Orb gift is now 3 Ember
+- Herald class changed to Explorer class.
+- Mercenary class changed to Sentinel class.
+- Assassin class changed to Gravetender class.
+
+#------------------------
+# Status Effect Changes
+#------------------------
+- Poison duration is now 15 seconds.
+- Poison damage is 25 flat damage, and 0.25% of max per tick.
+- Frost damage is now 100 flat damage, and 10% of max.
+- Frost duration is now 5 seconds.
+- Frost now reduces enemy absorption by 25%
+
+#------------------------
+# Stat Changes
+#------------------------
+- Scales are {<level>:<stat value at this level>}
+
+# Soul Level:
+- No longer increases defences or resistances.
+ 
+# Vigor:
+- HP Scale: {1:500, 25:750, 50:1000, 75:1500, 99:2000}
+- Frost Resist Scale: {1:50, 25:75, 50:100, 75:150, 99:200}
+
+# Attunement:
+- FP Scale: {1:100, 25:200, 50:300, 75:400, 99:500}
+ 
+# Endurance:
+- Lightning Defence Scale: {1:10, 25:20, 50:30, 75:40, 99:50}
+- Bleed Resist Scale: {1:50, 25:75, 50:100, 75:150, 99:200}
+
+# Vitality:
+- Physical Defence Scale: {1:10, 25:20, 50:30, 75:40, 99:50}
+- Poison Resist Scale: {1:50, 25:75, 50:100, 75:150, 99:200}
+
+# Strength:
+- Physical Defence Scale: {1:0, 25:25, 50:50, 75:75, 99:100}
+- Fire Defence Scale: {1:0, 25:25, 50:50, 75:75, 99:100}
+
+# Intelligence
+- Magic Defence Scale: {1:0, 25:25, 50:50, 75:75, 99:100}
+
+# Faith: 
+- Dark Defence Scale: {1:0, 25:25, 50:50, 75:75, 99:100}
+
+# Luck:
+- Item Discovery Scale: {1:1, 25:1.5, 50:2, 75:2.5, 99:3}
+- Curse Resist Scale: {1:50, 25:75, 50:100, 75:150, 99:200}
+
+#------------------------
+# Scorched Contract
+#------------------------
+- Implemented a Scorched Contract challenge option. 
+- Receive the Scorched Contract from Iudex Gundyr and activate it to start the challenge. 
+- Each boss will apply a negative debuff after their defeat.
+
+Vordt: 
+- Reduces base Frost resist by 100%.
+
+Curse-rotted Greatwood:
+- Reduces base Poison resist by 100%.
+ 
+Crystal Sage:
+- Increases spell FP cost by 100%.
+
+Deacons of the Deep: 
+- Killing enemies deals 1% HP damage to player.
+
+High Lord Wolnir: 
+- Reduces base Bleed resist by 100%.
+
+Old Demon King: 
+- Reduces base Fire defence by 100%.
+
+Pontiff Sulyvahn: 
+- Reduces base Magic defence by 100%.
+ 
+Dancer: 
+- Increases weapon stamina costs by 100%.
+
+Oceiros: 
+- Reduces base Curse resist by 100%.
+
+Dragonslayer Armour: 
+- Reduces base Physical defence by 100%.
+
+Champion Gundyr: 
+- Reduces estus effectiveness by 80%.
+
+Ancient Wyvern:
+- Reduces base Lightning defence by 100%.
+
+Nameless King: 
+- Player suffers 0.1% HP damage every second.
+ 
+Abyss Watchers: 
+- Forces slow walking speed.
+
+Aldrich: 
+- Reduces soul gain by 50%.
+
+Yhorm the Giant: 
+- Reduces max HP by 50%.
+
+Lothric Princes: 
+- Reduces max FP by 50%.
+ 
+Sister Friede:
+- Reduces base Dark defence by 100%.
+
+Gravetender Greatwolf:
+- Reduces equip load by 50%.
+ 
+Demon Prince: 
+- Reduces max Stamina by 50%.
+
+Halflight:
+- Increases weapon skill FP cost by 100%.
+
+Darkeater Midir: 
+- Reduces absorption by 50%.
+
+Slave Knight Gael:
+- Reduces damage by 90% whilst below 50% HP.
+
+#------------------------
+# Progression Changes
+#------------------------
+After placing the Coiled Sword you may warp to:
+- High Wall of Lothric bonfire
+- Foot of the High Wall bonfire
+- Road of Sacrifices bonfire
+- Cathedral of the Deep bonfire
+- Catacombs of Carthus bonfire
+- Irithyll of the Boreal Valley bonfire
+- Snowfield bonfire
+- The Dreg Heap bonfire
+
+These are the multipliers applied to the base stats of the enemies in the listed zones.
+
+# High Wall of Lothric
+- Max HP: 1.2
+- Max Stamina: 1
+- Physical Damage: 1.2
+- Magic Damage: 1.2
+- Fire Damage: 1.2
+- Lightning Damage: 1.2
+- Dark Damage: 1.2
+- Stamina Damage: 1.02
+- Physical Defence: 1.02
+- Magic Defence: 1.02
+- Fire Defence: 1.02
+- Lightning Defence: 1.02
+- Dark Defence: 1.02
+
+# Undead Settlement
+- Max HP: 1.3
+- Max Stamina: 1.1
+- Physical Damage: 1.3
+- Magic Damage: 1.3
+- Fire Damage: 1.3
+- Lightning Damage: 1.3
+- Dark Damage: 1.3
+- Stamina Damage: 1.03
+- Physical Defence: 1.03
+- Magic Defence: 1.03
+- Fire Defence: 1.03
+- Lightning Defence: 1.03
+- Dark Defence: 1.03
+
+# Road of Sacrifices
+- Max HP: 1.6
+- Max Stamina: 1.1
+- Physical Damage: 1.35
+- Magic Damage: 1.35
+- Fire Damage: 1.35
+- Lightning Damage: 1.35
+- Dark Damage: 1.35
+- Stamina Damage: 1.05
+- Physical Defence: 1.04
+- Magic Defence: 1.04
+- Fire Defence: 1.04
+- Lightning Defence: 1.04
+- Dark Defence: 1.04
+
+# Cathedral of the Deep
+- Max HP: 1.6
+- Max Stamina: 1.2
+- Physical Damage: 1.45
+- Magic Damage: 1.45
+- Fire Damage: 1.45
+- Lightning Damage: 1.45
+- Dark Damage: 1.45
+- Stamina Damage: 1.12
+- Physical Defence: 1.06
+- Magic Defence: 1.06
+- Fire Defence: 1.06
+- Lightning Defence: 1.06
+- Dark Defence: 1.06
+
+# Farron Keep
+- Max HP: 1.9
+- Max Stamina: 1.2
+- Physical Damage: 1.6
+- Magic Damage: 1.6
+- Fire Damage: 1.6
+- Lightning Damage: 1.6
+- Dark Damage: 1.6
+- Stamina Damage: 1.15
+- Physical Defence: 1.07
+- Magic Defence: 1.07
+- Fire Defence: 1.07
+- Lightning Defence: 1.07
+- Dark Defence: 1.07
+
+# Catacombs of Carthus
+- Max HP: 2.2
+- Max Stamina: 1.3
+- Physical Damage: 1.7
+- Magic Damage: 1.7
+- Fire Damage: 1.7
+- Lightning Damage: 1.7
+- Dark Damage: 1.7
+- Stamina Damage: 1.15
+- Physical Defence: 1.08
+- Magic Defence: 1.08
+- Fire Defence: 1.08
+- Lightning Defence: 1.08
+- Dark Defence: 1.08
+
+# Smouldering Lake
+- Max HP: 3
+- Max Stamina: 1.5
+- Physical Damage: 2.1
+- Magic Damage: 2.1
+- Fire Damage: 2.1
+- Lightning Damage: 2.1
+- Dark Damage: 2.1
+- Stamina Damage: 1.25
+- Physical Defence: 1.15
+- Magic Defence: 1.15
+- Fire Defence: 1.15
+- Lightning Defence: 1.15
+- Dark Defence: 1.15
+
+# Irithyll of the Boreal Valley
+- Max HP: 2.5
+- Max Stamina: 1.3
+- Physical Damage: 1.75
+- Magic Damage: 1.75
+- Fire Damage: 1.75
+- Lightning Damage: 1.75
+- Dark Damage: 1.75
+- Stamina Damage: 1.15
+- Physical Defence: 1.1
+- Magic Defence: 1.1
+- Fire Defence: 1.1
+- Lightning Defence: 1.1
+- Dark Defence: 1.1
+
+# Irithyll Dungeon/Profaned Capital
+- Max HP: 2.7
+- Max Stamina: 1.4
+- Physical Damage: 2
+- Magic Damage: 2
+- Fire Damage: 2
+- Lightning Damage: 2
+- Dark Damage: 2
+- Stamina Damage: 1.2
+- Physical Defence: 1.1
+- Magic Defence: 1.1
+- Fire Defence: 1.1
+- Lightning Defence: 1.1
+- Dark Defence: 1.1
+
+# Anor Londo/Lothric Castle
+- Max HP: 3
+- Max Stamina: 1.5
+- Physical Damage: 2.5
+- Magic Damage: 2.5
+- Fire Damage: 2.5
+- Lightning Damage: 2.5
+- Dark Damage: 2.5
+- Stamina Damage: 1.25
+- Physical Defence: 1.2
+- Magic Defence: 1.2
+- Fire Defence: 1.2
+- Lightning Defence: 1.2
+- Dark Defence: 1.2
+
+# Lothric Castle
+- Max HP: 3
+- Max Stamina: 1.5
+- Physical Damage: 2.5
+- Magic Damage: 2.5
+- Fire Damage: 2.5
+- Lightning Damage: 2.5
+- Dark Damage: 2.5
+- Stamina Damage: 1.25
+- Physical Defence: 1.2
+- Magic Defence: 1.2
+- Fire Defence: 1.2
+- Lightning Defence: 1.2
+- Dark Defence: 1.2
+
+# Unturned Graves
+- Max HP: 4
+- Max Stamina: 1.75
+- Physical Damage: 2.5
+- Magic Damage: 2.5
+- Fire Damage: 2.5
+- Lightning Damage: 2.5
+- Dark Damage: 2.5
+- Stamina Damage: 1.5
+- Physical Defence: 1.25
+- Magic Defence: 1.25
+- Fire Defence: 1.25
+- Lightning Defence: 1.25
+- Dark Defence: 1.25
+
+# Grand Archives
+- Max HP: 5
+- Max Stamina: 2
+- Physical Damage: 2.5
+- Magic Damage: 2.5
+- Fire Damage: 2.5
+- Lightning Damage: 2.5
+- Dark Damage: 2.5
+- Stamina Damage: 1.5
+- Physical Defence: 1.25
+- Magic Defence: 1.25
+- Fire Defence: 1.25
+- Lightning Defence: 1.25
+- Dark Defence: 1.25
+
+# Archdragon Peak
+- Max HP: 5
+- Max Stamina: 2
+- Physical Damage: 2.5
+- Magic Damage: 2.5
+- Fire Damage: 2.5
+- Lightning Damage: 2.5
+- Dark Damage: 2.5
+- Stamina Damage: 1.5
+- Physical Defence: 1.25
+- Magic Defence: 1.25
+- Fire Defence: 1.25
+- Lightning Defence: 1.25
+- Dark Defence: 1.25
+
+# Fireless Shrine
+- Max HP: 5
+- Max Stamina: 2
+- Physical Damage: 2.5
+- Magic Damage: 2.5
+- Fire Damage: 2.5
+- Lightning Damage: 2.5
+- Dark Damage: 2.5
+- Stamina Damage: 1.5
+- Physical Defence: 1.25
+- Magic Defence: 1.25
+- Fire Defence: 1.25
+- Lightning Defence: 1.25
+- Dark Defence: 1.25
+
+# Ariandel
+- Max HP: 4
+- Max Stamina: 1.5
+- Physical Damage: 2
+- Magic Damage: 2
+- Fire Damage: 2
+- Lightning Damage: 2
+- Dark Damage: 2
+- Stamina Damage: 1.25
+- Physical Defence: 1.2
+- Magic Defence: 1.2
+- Fire Defence: 1.2
+- Lightning Defence: 1.2
+- Dark Defence: 1.2
+
+# Dreg Heap
+- Max HP: 4
+- Max Stamina: 1.5
+- Physical Damage: 2
+- Magic Damage: 2
+- Fire Damage: 2
+- Lightning Damage: 2
+- Dark Damage: 2
+- Stamina Damage: 1.25
+- Physical Defence: 1.2
+- Magic Defence: 1.2
+- Fire Defence: 1.2
+- Lightning Defence: 1.2
+- Dark Defence: 1.2
+
+# Ringed City
+- Max HP: 5
+- Max Stamina: 2
+- Physical Damage: 2.5
+- Magic Damage: 2.5
+- Fire Damage: 2.5
+- Lightning Damage: 2.5
+- Dark Damage: 2.5
+- Stamina Damage: 1.5
+- Physical Defence: 1.25
+- Magic Defence: 1.25
+- Fire Defence: 1.25
+- Lightning Defence: 1.25
+- Dark Defence: 1.25
+
+#------------------------
+# NG Scaling Changes
+#------------------------
+This is the base increase for NG+1.
+
+Flattened into the following:
+- Max HP: 2
+- Max Stamina: 2
+- Physical Damage: 2
+- Magic Damage: 2
+- Fire Damage: 2
+- Lightning Damage: 2
+- Dark Damage: 2
+- Stamina Damage: 2

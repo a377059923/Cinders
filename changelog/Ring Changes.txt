@@ -1,0 +1,368 @@
+﻿#------------------------
+# Covenant Accessory Changes
+#------------------------
+# Covenant of Champions
+- Reduces all absorption by 100%
+- Allows Cinders to be dropped.
+
+# Blade of the Darkmoon
+- Boosts magic damage by 10%
+
+# Spears of the Church
+- Boosts damage absorption by 10%
+
+# Watchdogs of Farron
+- Reduces weapon stamina consumption by 10%.
+
+# Aldrich Faithful
+- Boosts dark damage by 10%
+
+# Blue Sentinels
+- Reduces weapon and spell FP consumption by 10%
+
+# Warriors of Sunlight
+- Boosts lightning damage by 10%
+
+# Mound-makers
+- Boosts physical damage by 10%
+
+# Way of Blue
+- Boosts max HP by 10%
+
+# Rosaria's Fingers
+- Boosts souls from enemies by 10%
+
+# Pact of Chaos
+- Boosts fire damage by 10%
+
+#------------------------
+# Ring Changes
+#------------------------
+# Life Ring
+- Grants 15% increased Max HP
+
+# Chloranthy Ring
+- Grants 10 Stamina Recovery
+
+# Havel's Ring
+- Grants 30% increased Max. Equip Load
+
+# Ring of Favor
+- Grants 5% increased Max HP
+- Grants 5% increased Max FP
+- Grants 5% increased Max Stamina
+- Grants 5% increased Max. Equip Load
+
+# Ring of Steel Protection
+- Grants 20% Physical Absorption
+
+# Flame Stoneplate Ring
+- Grants 20% Fire Absorption
+
+# Thunder Stoneplate Ring
+- Grants 20% Lightning Absorption
+
+# Magic Stoneplate Ring
+- Grants 20% Magic Absorption
+
+# Dark Stoneplate Ring
+- Grants 20% Dark Absorption
+
+# Speckled Stoneplate Ring
+- Grants 10% Fire Absorption
+- Grants 10% Lightning Absorption
+- Grants 10% Magic Absorption
+- Grants 10% Dark Absorption
+
+# Wood Grain Ring
+- Grants 5% increased Physical damage
+
+# Scholar Ring
+
+# Priestess Ring
+
+# Red Tearstone Ring
+- Grants 25% increased damage whilst below 25% HP
+
+# Blue Tearstone Ring
+- Grants 50% absorption whilst below 25% HP
+
+# Wolf Ring
+- Grants 20 Poise
+
+# Leo Ring
+
+# Ring of Sacrifice
+
+# Young Dragon Ring
+- Grants 20% reduction to the FP cost of Sorceries
+
+# Bellowing Dragoncrest Ring
+- Grants 5% boost to the power of Sorceries
+
+# Great Swamp Ring
+- Grants 20% reduction to the FP cost of Pyromancies
+
+# Witch's Ring
+- Grants 5% boost to the power of Pyromancies
+
+# Morne's Ring
+- Grants 20% reduction to the FP cost of Miracles
+
+# Ring of the Sun's First Born
+- Grants 5% boost to the power of Miracles
+
+# Lingering Dragoncrest Ring
+- Grants 50% boost to the duration of effects
+
+# Sage Ring
+- Grants 25 Casting Speed
+
+# Slumbering Dragoncrest Ring
+
+# Dusk Crown Ring
+- Grants 10% boost to the power of Sorceries but increases spell FP cost by 25%.
+
+# Saint's Ring
+- Grants 2 Attunement slots
+
+# Deep Ring
+- Grants 5% boost to the power of Hexes
+
+# Darkmoon Ring
+- Grants 3 FP every second
+
+# Hawk Ring
+- Grants 100 boost to bow distance
+
+# Hornet Ring
+
+# Covetous Gold Serpent Ring
+- Grants 100 item discovery
+
+# Covetous Silver Serpent Ring
+- Grants 30% extra souls
+
+# Sun Princess Ring
+- Grants 3 HP every second
+
+# Silvercat Ring
+
+# Skull Ring
+- Grants 10% boost to Physical damage but increases weapon FP cost by 25% and attracts enemies to you.
+
+# Untrue White Ring
+
+# Untrue Dark Ring
+
+# Carthus Milkring
+- Increases roll i-frames but reduces absorption by 15%
+
+# Carthus Bloodring
+- Grants 5 stamina recovery and obscures the roll.
+
+# Knight's Ring
+
+# Hunter's Ring
+
+# Knight Slayer's Ring
+- Enemies lose 40% more stamina when they block attacks.
+
+# Magic Clutch Ring
+- Grants 10% Magic boost but reduces absorption by 10%
+
+# Lightning Clutch Ring
+- Grants 10% Lightning boost but reduces absorption by 10%
+
+# Fire Clutch Ring
+- Grants 10% Fire boost but reduces absorption by 10%
+
+# Dark Clutch Ring
+- Grants 10% Dark boost but reduces absorption by 10%
+
+# Flynn's Ring
+- Grants 35% boost, scaling downwards with equip load to 0% at 30.
+
+# Prisoner's Chain
+- Grants 5 Vigor, Endurance and Vitality but reduces absorption by 10%.
+
+# Obscuring Ring
+- Obscures the user and reduces enemy visual detection massively.
+
+# Ring of the Evil Eye
+- Grants 100 HP on enemy kills.
+
+# Calamity Ring 
+- Increases physical damage by 15% but wearer loses 0.2% HP a second.
+
+# Farron Ring
+- Grants 20% reduction to Weapon Art FP cost.
+
+# Aldrich's Ruby
+- Grants 100% HP on a successful critical hit.
+
+# Aldrich's Sapphire
+- Grants 100% FP on a successful critical hit.
+
+# Lloyd's Sword Ring
+- Grants 15% boost to damage when at 100% HP
+
+# Lloyd's Shield Ring
+- Grants 40% absorption when at 100% HP
+
+# Estus Ring
+- Grants 25% increase in Estus Recovery
+
+# Ashen Estus Ring
+- Grants 50% increase in Ashen Estus Recovery
+
+# Horsehoof Ring
+- Grants 100% increase in kick stamina damage
+
+# Reversal Ring
+
+# Pontiff's Right Eye
+- Grants 15% attack boost as long as attacking persists.
+
+# Pontiff's Left Eye
+- Grants 10 FP with successive attacks.
+
+# Dragonscale Ring
+- Grants 15% increased Max FP.
+
+# Chillbite Ring
+
+#--------------------
+# New Rings
+#--------------------
+# Ring of Londor 
+- Grants 2 Attunement slots
+
+# Spirit Amethyst 
+- Grants 25 FP on enemy kills
+
+# Unholy Remains
+- Boosts dark spell damage by 10% but increases spell FP cost by 25%.
+
+# Forgotten Pendant
+- Boosts casting speed by 30.
+
+# Wretched Pendant
+- Reduces weapon stamina consumption by 15%
+
+# Symbol of the Penitent
+- Boosts maximum stamina by 15%
+
+# Desiccated Finger
+- Boosts stamina regen by 10
+
+# Runic Seal
+- Slows movement severely but prevents staggering.
+
+# Tome of Sunlight
+- Boosts lightning miracle spell damage by 10% but increases spell FP cost by 25%.
+
+# Greatwood Remnants
+- Increases absorption by 15% 
+
+# Charred Bone
+- Boosts fire pyromancy spell damage by 10% but increases spell FP cost by 25%.
+
+# Green Tearstone Ring 
+- Boosts stamina recovery by 20 whilst below 25% health
+
+# Yellow Tearstone Ring 
+- Reduces weapon skill FP cost by 50% whilst below 25% health
+
+# Violet Tearstone Ring 
+- Boosts casting speed by 50 whilst below 25% health
+
+# Ring of Woe 
+- Boosts stamina recovery by 30 but wearer loses 0.5% HP a second.
+
+# Ring of Adversity 
+- Grants 4 FP every second but wearer loses 0.5% HP a second.
+
+# Ring of Catastrophe 
+- Boosts elemental attack by 15% but wearer loses 0.5% HP a second.
+
+# Demonsbane Ring
+- Increase damage against Demons enemies by 20%
+
+# Crypt Ring
+- Increase damage against Undead enemies by 20%
+
+# Blight Ring
+- Increase damage against Hollow enemies by 20%
+
+# Hallowed Ring
+- Increase damage against Abyssal enemies by 20%
+
+# Ring of Wisdom
+- Increases max FP by 10%, spell duration by 25% and grants 1 attunement slot
+
+# Ring of Constitution
+- Boosts max HP by 15%
+
+# Ring of Fortitude
+- Boosts max stamina by 15%
+
+# Ring of Clarity
+- Boosts max FP by 15%
+
+# Iron Grain Ring
+- Boosts physical attack by 10%
+
+# Elder Dragoncrest Ring
+- Boosts potency of sorceries by 10%
+
+# Ring of Disparity
+- Boosts potency of pyromancies by 10%
+
+# Ring of the Sun
+- Boosts potency of miracles by 10%
+
+# Abyss Ring
+- Boosts potency of dark sorceries and miracles by 10%
+
+# Ring of Alacrity
+- Boosts casting speed by 50
+
+# Vanquisher Ring
+- Reduces weapon stamina consumption by 15%
+
+# Celestial Ring
+- Grants 2 FP every second
+
+# Ring of Retaliation
+- Grants 40 Physical damage on rolling action.
+
+# Ring of Reprisal
+- Grants 40 Magic damage on rolling action.
+
+# Ring of Spite
+- Grants 40 Fire damage on rolling action.
+
+# Ring of Retribution
+- Grants 40 Lightning damage on rolling action.
+
+# Ring of Vengeance
+- Grants 40 Dark damage on rolling action.
+
+# Bulwark Ring
+- Boosts durability by 10
+
+# Inscribed Rune
+- Increases Vigor by 5
+
+# Scrolls of the Augur
+- Increases Attunement by 5
+
+# Banner of Tenacity
+- Increases Endurance by 5
+
+# Emblem of Vitality
+- Increases Vitality by 5
+
+# Lucky Coin
+- Increases Luck by 5

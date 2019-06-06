@@ -1,0 +1,841 @@
+﻿#------------------------
+# Sorceries
+#------------------------
+# Farron Dart 
+- FP Cost: 8
+- Stamina Cost: 15
+- Magic Damage: 60
+- Stamina Damage: 20
+- Slot Usage: 1
+
+# Great Farron Dart 
+- INT Requirement: 15
+- FP Cost: 12
+- Stamina Cost: 18
+- Magic Damage: 80 
+- Stamina Damage: 25
+- Knockback: 0.8
+- Slot Usage: 1
+
+# Soul Arrow
+- FP Cost: 16
+- Stamina Cost: 35
+- Magic Damage: 130 
+- Stamina Damage: 50
+- Poise Damage: 20
+- Knockback: 0.9
+- Slot Usage: 1
+
+# Great Soul Arrow 
+- FP Cost: 20 
+- Stamina Cost: 45
+- Magic Damage: 150
+- Stamina Damage: 60
+- Poise Damage: 20
+- Knockback: 1.0
+- Slot Usage: 1
+
+# Homing Soul Arrow 
+- INT Requirement: 20
+- FP Cost: 14
+- Stamina Cost: 45
+- Magic Damage: 100 
+- Stamina Damage: 80
+- Poise Damage: 40
+- Knockback: 0.9
+- Slot Usage: 1
+
+# Great Homing Soul Arrow 
+- INT Requirement: 25
+- FP Cost: 22 
+- Stamina Cost: 65
+- Magic Damage: 120 
+- Stamina Damage: 90
+- Poise Damage: 45
+- Knockback: 1
+- Slot Usage: 1
+
+# Homing Soulmass 
+- FP Cost: 40 
+- Stamina Cost: 70
+- Magic Damage: 50 (per bullet)
+- Slot Usage: 1
+
+# Homing Crystal Soulmass 
+- INT Requirement: 40
+- FP Cost: 80
+- Stamina Cost: 70
+- Magic Damage: 75 (per bullet)
+- Slot Usage: 2
+
+# Soul Spear
+- INT Requirement: 30
+- FP Cost: 48 
+- Stamina Cost: 55
+- Magic Damage: 250 
+- Stamina Damage: 100
+- Poise Damage: 50
+- Cast Speed: 1
+- Slot Usage: 2
+
+# Crystal Soul Spear 
+- INT Requirement: 60
+- FP Cost: 64
+- Stamina Cost: 65
+- Magic Damage: 320 
+- Poise Damage: 50
+- Cast Speed: 1
+- Slot Usage: 2
+
+# White Dragon Breath 
+- INT Requirement: 40
+- FP Cost: 40 
+- Stamina Cost: 50
+- Magic Damage: 300 [150]
+- Stamina Damage: 100
+- Poise Damage: 100
+- Knockback: 2
+- Cast Speed: 1
+- Slot Usage: 2
+
+# Farron Hail 
+- INT Requirement: 18
+- FP Cost: 12
+- Stamina Cost: 8
+- Magic Damage: 80 (per bullet)
+- Cast Speed: 1
+- Slot Usage: 1
+
+# Crystal Hail 
+- FP Cost: 16
+- Stamina Cost: 25
+- Magic Damage: 80 (per bullet)
+- Slot Usage: 2
+
+# Farron Flashsword 
+- INT Requirement: 12
+- FP Cost: 8 
+- Stamina Cost: 20
+- Magic Damage: 110
+- Slot Usage: 1
+
+# Soul Greatsword 
+- INT Requirement: 14
+- FP Cost: 32
+- Stamina Cost: 40
+- Magic Damage: 200  
+- Cast Speed: 1
+- Slot Usage: 1
+
+# Old Moonlight 
+- INT Requirement: 40
+- FP Cost: 48 
+- Stamina Cost: 40
+- Magic Damage: 150 (300 charged) [160]
+- Stamina Damage: 100
+- Poise Damage: 100
+- Slot Usage: 2
+
+# Soul Stream 
+- INT Requirement: 40
+- FP Cost: 96 
+- Stamina Cost: 100
+- Magic Damage: 100 (per tick) [150] [100]
+- Slot Usage: 2
+
+# Soul Wave
+- INT Requirement: 30
+- FP Cost: 32 
+- Stamina Cost: 55
+- Magic Damage: 220
+- Slot Usage: 1
+
+# Soul Barrage 
+- INT Requirement: 60
+- FP Cost: 24 
+- Stamina Cost: 30
+- Magic Damage: 120 (per bullet)  
+- Slot Usage: 2
+
+# --------- Dark Sorceries
+# Deep Soul
+- FTH Requirement: 12
+- FP Cost: 16
+- Stamina Cost: 20
+- Dark Damage: 130 
+- Poise Damage: 25
+- Slot Usage: 1
+
+# Great Deep Soul 
+- INT Requirement: 30
+- FTH Requirement: 30
+- FP Cost: 20
+- Stamina Cost: 29
+- Dark Damage: 150
+- Poise Damage: 25
+- Slot Usage: 1
+
+# Pursuing Soul
+- INT Requirement: 20
+- FTH Requirement: 20
+- FP Cost: 18 
+- Stamina Cost: 45
+- Dark Damage: 120 
+- Stamina Damage: 80
+- Poise Damage: 40
+- Knockback: 0.9
+- Slot Usage: 1
+
+# Great Pursuing Soul
+- INT Requirement: 25
+- FTH Requirement: 25
+- FP Cost: 22 
+- Stamina Cost: 65
+- Dark Damage: 150 
+- Stamina Damage: 90
+- Poise Damage: 45
+- Knockback: 1
+- Slot Usage: 1
+
+# Great Soul Dregs 
+- FTH Requirement: 40
+- FP Cost: 48 
+- Stamina Cost: 55
+- Dark Damage: 260 
+- Poise Damage: 100
+- Cast Speed: 2
+- Slot Usage: 2
+
+# Dark Edge
+- INT Requirement: 12
+- FTH Requirement: 12
+- FP Cost: 8
+- Stamina Cost: 20
+- Dark Damage: 110
+- Slot Usage: 1
+
+# Abyssal Edge 
+- FTH Requirement: 30
+- FP Cost: 32 
+- Stamina Cost: 45
+- Dark Damage: 210  
+- Cast Speed: 1
+- Slot Usage: 1
+
+# Affinity
+- INT Requirement: 25
+- FP Cost: 80 
+- Stamina Cost: 55
+- Dark Damage: 75 (per bullet)
+- Slot Usage: 2
+
+# Abyssal Burst 
+- INT Requirement: 60
+- FTH Requirement: 60
+- FP Cost: 56 
+- Stamina Cost: 100
+- Dark Damage: 300
+- Slot Usage: 3
+
+# --------- Utility Sorceries
+# Magic Weapon
+- FP Cost: 32 
+- Stamina Cost: 60
+- Slot Usage: 1
+
+# Great Magic Weapon
+- FP Cost: 40 
+- Stamina Cost: 60
+- Slot Usage: 1
+
+# Crystal Magic Weapon
+- FP Cost: 48 
+- Stamina Cost: 60
+- Slot Usage: 2
+
+# Frozen Weapon
+- FP Cost: 40 
+- Stamina Cost: 60
+- Slot Usage: 1
+
+# Magic Shield
+- FP Cost: 40 
+- Stamina Cost: 40
+- Slot Usage: 1
+
+# Great Magic Shield
+- FP Cost: 64 
+- Stamina Cost: 80
+- Slot Usage: 2
+
+# Hidden Weapon
+- FP Cost: 24 
+- Stamina Cost: 30
+- Slot Usage: 1
+
+# Hidden Body
+- FP Cost: 24 
+- Stamina Cost: 50
+- Slot Usage: 1
+
+# Cast Light
+- FP Cost: 24 
+- Stamina Cost: 30
+- Slot Usage: 1
+
+# Repair
+- FP Cost: 24 
+- Stamina Cost: 50
+- Slot Usage: 2
+
+# Spook
+- FP Cost: 32
+- Stamina Cost: 30
+- Slot Usage: 2
+
+# Chameleon
+- FP Cost: 32 
+- Stamina Cost: 60
+- Slot Usage: 2
+
+# Aural Decoy
+- FP Cost: 24 
+- Stamina Cost: 30
+- Slot Usage: 1
+
+# Twisted Wall of Light 
+- INT Requirement: 20
+- FP Cost: 12
+- Stamina Cost: 30
+- Slot Usage: 1
+
+# Pestilent Mist 
+- INT Requirement: 35
+- FP Cost: 16 
+- Stamina Cost: 20
+- Slot Usage: 2
+
+# Snap Freeze 
+- FP Cost: 16 
+- Stamina Cost: 30
+- Magic Damage: 150
+- Slot Usage: 1
+
+# Unleash Magic
+- FP Cost: 80
+- Stamina Cost: 200
+- Slot Usage: 2
+
+#------------------------
+# Pyromancies
+#------------------------
+# Fireball 
+- FP Cost: 24
+- Stamina Cost: 35
+- Fire Damage: 180 [160]
+- Slot Usage: 1
+
+# Fire Orb 
+- FP Cost: 30
+- Stamina Cost: 45
+- Fire Damage: 230 [210]
+- Slot Usage: 1
+
+# Firestorm 
+- FP Cost: 8 [8]
+- Stamina Cost: 95
+- Fire Damage: 200
+- Slot Usage: 1
+
+# Fire Surge 
+- FP Cost: 8
+- Stamina Cost: 0
+- Fire Damage: 80
+- Slot Usage: 1
+
+# Great Combustion 
+- FP Cost: 32
+- Stamina Cost: 30
+- Fire Damage: 200 [180]
+- Slot Usage: 1
+
+# Great Chaos Fire Orb 
+- FP Cost: 72 
+- Stamina Cost: 65
+- Fire Damage: 330 [150] 
+- Slot Length: 2
+
+# Chaos Storm
+- FP Cost: 12 [12]
+- Stamina Cost: 120
+- Fire Damage: 200 [100]
+- Slot Length: 3
+
+# Fire Whip 
+- FP Cost: 8
+- Stamina Cost: 50
+- Fire Damage: 80 (per bullet)
+- Slot Usage: 1
+
+# Profaned Flame 
+- FP Cost: 56 
+- Stamina Cost: 50
+- Fire Damage: 280 
+- Slot Usage: 2
+
+# Chaos Bed Vestiges 
+- FP Cost: 68
+- Stamina Cost: 75
+- Fire Damage: 340 [110]
+- Slot Length: 2
+
+# Floating Chaos 
+- FP Cost: 28
+- Stamina Cost: 45
+- Fire Damage: 90 (per bullet)
+- Slot Usage: 1
+
+# Flame Fan 
+- FP Cost: 12
+- Fire Damage: 0 
+- Slot Usage: 1
+
+# Bursting Fireball 
+- FP Cost: 16
+- Stamina Cost: 35
+- Fire Damage: 130 [80]
+- Slot Usage: 1
+
+# Boulder Heave 
+- FP Cost: 32 
+- Stamina Cost: 45
+- Physical Damage: 200 [120]
+- Poise Damage: 100
+- Knockback: 3
+- Slot Usage: 2
+
+# Sacred Flame
+- FP Cost: 48 
+- Stamina Cost: 30
+- Fire Damage: 200
+- Slot Usage: 2
+
+# Seething Chaos 
+- FP Cost: 48
+- Stamina Cost: 45
+- Fire Damage: 220 [400]
+- Slot Usage: 2
+
+# Cataclysm 
+- FP Cost: 80 
+- Stamina Cost: 100
+- Fire Damage: 380 [160]
+- Slot Length: 3
+
+# Seeds of Chaos
+- FP Cost: 40 
+- Stamina Cost: 70
+- Fire Damage: 50 (per bullet)
+- Slot Usage: 1
+
+# Singe
+- FP Cost: 8
+- Stamina Cost: 15
+- Fire Damage: 60
+- Stamina Damage: 20
+- Slot Usage: 1
+
+# --------- Dark Pyromancies
+# Black Fire Orb 
+- FP Cost: 32 
+- Stamina Cost: 45
+- Dark Damage: 250 [230]
+- Slot Usage: 1
+
+# Black Flame 
+- FP Cost: 32 
+- Stamina Cost: 35
+- Dark Damage: 250 [230] 
+- Slot Usage: 1
+
+# Black Serpent 
+- FP Cost: 32 
+- Stamina Cost: 45
+- Dark Damage: 170 
+- Knockback: 2
+- Cast Speed: 1
+- Slot Usage: 2
+
+# --------- Utility Pyromancies
+# Carthus Beacon
+- FP Cost: 40
+- Stamina Cost: 50
+- Slot Length: 1
+
+# Warmth 
+- FP Cost: 80 
+- Stamina Cost: 80
+- Slot Length: 2
+
+# Profuse Sweat
+- FP Cost: 32 
+- Stamina Cost: 35
+- Slot Usage: 1
+
+# Poison Mist 
+- FP Cost: 16 
+- Stamina Cost: 45
+- Slot Usage: 1
+
+# Toxic Mist 
+- FP Cost: 32 
+- Stamina Cost: 45
+- Slot Usage: 1
+
+# Acid Surge 
+- FP Cost: 32 
+- Stamina Cost: 45
+- Slot Usage: 1
+
+# Iron Flesh 
+- FP Cost: 56 
+- Stamina Cost: 40
+- Slot Usage: 2
+
+# Flash Sweat
+- FP Cost: 32 
+- Stamina Cost: 40
+- Slot Usage: 1
+
+# Carthus Flame Arc
+- FP Cost: 40
+- Stamina Cost: 60
+- Slot Usage: 2
+
+# Rapport 
+- FP Cost: 40 
+- Stamina Cost: 40
+- Slot Usage: 2
+
+# Power Within 
+- FP Cost: 80
+- Stamina Cost: 50
+- Damage Increase: 25%
+- Slot Usage: 3
+
+#------------------------
+# Miracles
+#------------------------
+# Force 
+- FP Cost: 24 
+- Stamina Cost: 40
+- Slot Usage: 1
+
+# Emit Force 
+- FP Cost: 24 
+- Stamina Cost: 40
+- Physical Damage: 120 [80]
+- Slot Usage: 1
+
+# Wrath of the Gods 
+- FTH Requirement: 40
+- FP Cost: 80 
+- Stamina Cost: 80
+- Physical Damage: 360 
+- Poise Damage: 100
+- Knockback: 3
+- Cast Speed: 2
+- Slot Length: 2
+
+# Lightning Spear 
+- FTH Requirement: 10
+- FP Cost: 24 
+- Stamina Cost: 40
+- Lightning Damage: 145 [60] [115]
+- Homing Angle: 30
+- Slot Usage: 1
+
+# Great Lightning Spear 
+- FP Cost: 32 
+- Stamina Cost: 45
+- Lightning Damage: 185 [70] [145]
+- Poise Damage: 50
+- Homing Angle: 45
+- Slot Usage: 1
+
+# Sunlight Spear 
+- FP Cost: 48 
+- Stamina Cost: 55
+- Lightning Damage: 260 [90] [190] 
+- Stamina Damage: 200
+- Poise Damage: 100
+- Homing Angle: 60
+- Slot Usage: 2
+
+# Lightning Arrow 
+- FP Cost: 40 
+- Stamina Cost: 8
+- Lightning Damage: 160
+- Slot Usage: 1
+
+# Lightning Storm
+- FTH Requirement: 40
+- FP Cost: 48
+- Stamina Cost: 85
+- Lightning Damage: 130 
+- Slot Length: 1
+
+# Lightning Stake 
+- FP Cost: 48
+- Stamina Cost: 50
+- Lightning Damage: 100 [150] [100]
+- Slot Usage: 2
+
+# Divine Pillars of Light 
+- FP Cost: 8 [8]
+- Stamina Cost: 90
+- Physical Damage: 200
+- Slot Usage: 1
+
+# Way of White Corona 
+- FTH Requirement: 15
+- FP Cost: 16
+- Stamina Cost: 30
+- Physical Damage: 90
+- Cast Speed: 1
+
+# Halo
+- FTH Requirement: 40
+- FP Cost: 48 
+- Stamina Cost: 68
+- Physical Damage: 250
+- Slot Usage: 1
+
+# Bursting Halo 
+- FTH Requirement: 60
+- FP Cost: 56
+- Stamina Cost: 80
+- Physical Damage: 300
+- Slot Usage: 2
+
+# Lightning Bolt
+- FTH Requirement: 8
+- FP Cost: 8
+- Stamina Cost: 15
+- Lightning Damage: 60
+- Stamina Damage: 20
+- Slot Usage: 1
+
+# Sunlight Barrage
+- FTH Requirement: 60
+- FP Cost: 24 
+- Stamina Cost: 30
+- Lightning Damage: 120 (per bullet)  
+- Slot Usage: 2
+
+# Sparks
+- FTH Requirement: 20
+- FP Cost: 40 
+- Stamina Cost: 70
+- Lightning Damage: 50 (per bullet)
+- Slot Usage: 1
+
+# --------- Dark Miracles
+# Gnaw 
+- INT Requirement: 10
+- FTH Requirement: 10
+- FP Cost: 16
+- Stamina Cost: 30
+- Dark Damage: 100 
+- Slot Usage: 1
+
+# Dorhys' Gnawing 
+- INT Requirement: 35
+- FTH Requirement: 35
+- FP Cost: 24 
+- Stamina Cost: 30
+- Dark Damage: 120 
+- Slot Usage: 1
+
+# Ravenous Gnawing
+- INT Requirement: 40
+- FTH Requirement: 40
+- FP Cost: 32 
+- Stamina Cost: 40
+- Dark Damage: 150 
+- Slot Usage: 2
+
+# Voracious Gnawing 
+- INT Requirement: 60
+- FTH Requirement: 60
+- FP Cost: 40 
+- Stamina Cost: 50
+- Dark Damage: 200 
+- Slot Usage: 2
+
+# Lifehunt Scythe
+- INT Requirement: 20
+- FTH Requirement: 20
+- FP Cost: 20 
+- Stamina Cost: 50
+- Dark Damage: 140 [190] [210] [220]
+- Slot Usage: 1
+
+# Dead Again 
+- INT Requirement: 15
+- FTH Requirement: 15
+- FP Cost: 45
+- Stamina Cost: 60
+- Slot Usage: 1
+
+# Nibble
+- INT Requirement: 8
+- FTH Requirement: 8
+- FP Cost: 8
+- Stamina Cost: 15
+- Dark Damage: 60
+- Stamina Damage: 20
+- Slot Usage: 1
+
+# --------- Utility Miracles
+# Heal Aid 
+- FP Cost: 32 
+- Stamina Cost: 60
+- Slows movement for 6 seconds.
+- Heals 100 HP
+- Slot Usage: 1
+
+# Heal 
+- FP Cost: 56 
+- Stamina Cost: 90
+- Slows movement for 6 seconds.
+- Heals 200 HP
+- Slot Usage: 1
+
+# Med Heal 
+- FP Cost: 64 
+- Stamina Cost: 120
+- Slows movement for 6 seconds.
+- Heals 300 HP
+- Slot Usage: 2
+
+# Great Heal 
+- FP Cost: 80 
+- Stamina Cost: 200
+- Slows movement for 6 seconds.
+- Heals 400 HP
+- Slot Usage: 2
+
+# Soothing Sunlight 
+- FTH Requirement: 40
+- FP Cost: 96 
+- Stamina Cost: 200
+- Slows movement for 6 seconds.
+- Heals 500 HP
+- Slot Usage: 3
+
+# Projected Heal
+- FP Cost: 64 
+- Stamina Cost: 120
+- Slot Usage: 1
+
+# Bountiful Light 
+- FP Cost: 24 
+- Stamina Cost: 90
+- Heals 10 HP per second
+- Lasts 30 seconds
+- Slot Usage: 1
+
+# Replenishment
+- FP Cost: 56 
+- Stamina Cost: 120
+- Heals 10 HP per second
+- Lasts 60 seconds
+- Slot Usage: 1
+
+# Bountiful Sunlight 
+- FP Cost: 80 
+- Stamina Cost: 200
+- Slot Length: 1
+- Heals 10 HP per second
+- Lasts 120 seconds
+- Slot Usage: 2
+
+# Caressing Tears 
+- FP Cost: 40
+- Stamina Cost: 40
+- Slot Usage: 2
+
+# Tears of Denial
+- FTH Requirement: 40
+- FP Cost: 160
+- Stamina Cost: 200
+- Slot Length: 3
+
+# Homeward 
+- FP Cost: 32
+- Stamina Cost: 0
+- Slot Usage: 1
+
+# Blessed Weapon
+- FP Cost: 40 
+- Stamina Cost: 30
+- HP Recovery: 5
+- Slot Usage: 2
+
+# Deep Protection
+- INT Requirement: 20
+- FP Cost: 40 
+- Stamina Cost: 60
+- Slot Usage: 1
+
+# Atonement
+- FP Cost: 32 
+- Stamina Cost: 40
+- Slot Usage: 1
+
+# Sacred Oath
+- FP Cost: 80 
+- Stamina Cost: 100
+- Slot Length: 2
+
+# Vow of Silence
+- FP Cost: 40 
+- Stamina Cost: 40
+- Slot Length: 1
+
+# Lightning Blade 
+- FP Cost: 64 
+- Stamina Cost: 30
+- Lightning Damage: 80
+- Slot Usage: 2
+
+# Darkmoon Blade 
+- FP Cost: 64 
+- Stamina Cost: 30
+- Magic Damage: 80
+- Slot Usage: 2
+
+# Dark Blade 
+- INT Requirement: 25
+- FP Cost: 56
+- Stamina Cost: 30
+- Dark Damage: 80
+- Slot Usage: 1
+
+# Magic Barrier 
+- FP Cost: 40 
+- Stamina Cost: 35
+- Magic Absorption: 50%
+- Slot Usage: 1
+
+# Great Magic Barrier 
+- FP Cost: 80 
+- Stamina Cost: 35
+- Magic Absorption: 75%
+- Slot Length: 2
+
+# Seek Guidance
+- FP Cost: 15
+- Stamina Cost: 30
+- Slot Usage: 1

@@ -1,0 +1,139 @@
+﻿- Max Stored for most Goods increased to 999.
+- Max Num for most Goods increased to 99.
+
+#------------------------
+# Tools
+#------------------------
+# Dragon Head Stone
+- Physical Absorption:  0.9  (10%)
+- Slash Absorption:     0.9  (10%)
+- Strike Absorption:    0.9  (10%)
+- Thrust Absorption:    0.9  (10%)
+- Magic Absorption:     0.9  (10%)
+- Fire Absorption:      0.9  (10%)
+- Lightning Absorption: 1.1  (-10%)
+- Dark Absorption:      0.9  (10%)
+
+# Dragon Torso Stone
+- Physical Absorption:  0.8  (30%)
+- Slash Absorption:     0.8  (30%)
+- Strike Absorption:    0.8  (30%)
+- Thrust Absorption:    0.8  (30%)
+- Magic Absorption:     0.8  (30%)
+- Fire Absorption:      0.8  (30%)
+- Lightning Absorption: 1.2  (-20%)
+- Dark Absorption:      0.8  (30%)
+- Prevents staggering.
+
+# Twinkling Dragon Head Stone
+- Physical Absorption:  0.9  (10%)
+- Slash Absorption:     0.9  (10%)
+- Strike Absorption:    0.9  (10%)
+- Thrust Absorption:    0.9  (10%)
+- Magic Absorption:     0.9  (10%)
+- Fire Absorption:      0.9  (10%)
+- Lightning Absorption: 1.1  (-10%)
+- Dark Absorption:      0.9  (10%)
+- Roar deals 400 Fire damage.
+
+# Twinkling Dragon Torso Stone
+- Physical Absorption:  0.8  (30%)
+- Slash Absorption:     0.8  (30%)
+- Strike Absorption:    0.8  (30%)
+- Thrust Absorption:    0.8  (30%)
+- Magic Absorption:     0.8  (30%)
+- Fire Absorption:      0.8  (30%)
+- Lightning Absorption: 1.2  (-20%)
+- Dark Absorption:      0.8  (30%)
+- Prevents staggering.
+
+# Young Grass Dew
+- Now an unlimited usable item.
+- Can be used outside of the Spears of the Church encounter.
+- Costs 60 FP to use.
+- Requires the Spears of the Church emblem equipped
+- Grants 1% HP and 1 FP recovery per second, 5 stamina recovery and 5% damage absorption for two minutes.
+
+# Flame Ember
+- Costs 50 FP to use.
+- Lasts until death.
+- Activates the latent power of Fire infusions, adding a fire visual effect to your Fire infused weapons and boosting Fire damage by 5%. 
+
+# Crystal Ember
+- Costs 50 FP to use.
+- Lasts until death.
+- Activates the latent power of Magic infusions, adding a crystal magic visual effect to your Magic infused weapons and boosting Magic damage by 5%. 
+
+# Lightning Ember
+- Costs 50 FP to use.
+- Lasts until death.
+- Activates the latent power of Lightning infusions, adding a lightning visual effect to your Lightning infused weapons and boosting Lightning damage by 5%. 
+
+# Dark Ember
+- Costs 50 FP to use.
+- Lasts until death.
+- Activates the latent power of Dark infusions, adding a dark visual effect to your Dark infused weapons and boosting Dark damage by 5%. 
+
+# Profane Ascetic
+- Use to increment your current New Game Plus count. This is irreversable once used. 
+- Dropped by the Fire Keeper.
+
+# Cinders
+- Dropped by enemies whilst pledged to the Company of Champions.
+- Can be consumed to increase restore 100% HP and FP.
+- Can be exchanged with the Nestling for random goods.
+
+# Red Eye Orb
+- Costs 50 FP to use.
+- Lasts for 120 seconds.
+- Boosts soul gain by 25%
+
+#------------------------
+# Consumables
+#------------------------
+# Cracked Red Eye Orb
+- Lasts for 120 seconds.
+- Boosts soul gain by 25%
+
+# Brightbug 
+- Increases damage by 20% for two minutes.
+- Reduces damage taken by 20% for two minutes.
+
+# Oozing Pellet
+- Grant 2 FP per second for 60 seconds.
+
+# Cursed Pellet
+- Grant 3 FP per second for 60 seconds but also reduce HP by 8 per second for 60 seconds.
+
+# Green Blossom
+- Stamina Recovery: 10
+
+# Budding Green Blossom
+- Stamina Recovery: 15
+
+# Charcoal Pine Resin
+- Fire Damage: 60
+
+# Gold Pine Resin
+- Lightning Damage: 60
+
+# Human Pine Resin
+- Dark Damage: 60
+
+# Carthus Rogue
+- Bleed Inflict: 10
+
+# Pale Pine Resin
+- Magic Damage: 60
+
+# Charcoal Pine Bundle
+- Fire Damage: 90
+
+# Gold Pine Bundle
+- Lightning Damage: 90
+
+# Rotten Pine Resin
+- Poison Inflict: 25
+
+# Fire Seed
+- Reinforcement material for pyromancy flames.

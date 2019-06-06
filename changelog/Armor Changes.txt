@@ -1,0 +1,951 @@
+﻿#----------------------------
+# Extremely Heavy (45+)
+#----------------------------
+# Havel's Set 
+- Weight: 80
+- Poise: 200 [20,100,20,60]
+- Head Effect: Boosts base defences by 10%
+- Body Effect: Boosts base defences by 10%
+- Arms Effect: Boosts base defences by 10%
+- Legs Effect: Boosts base defences by 10%
+- Set Effect: Boosts base defences by 10%
+
+# Smough's Set
+- Weight: 70
+- Poise: 190 [60,80,60,70]
+- Head Effect: Fallen enemies restore 1% health
+- Body Effect: Fallen enemies restore 1% health
+- Arms Effect: Fallen enemies restore 1% health
+- Legs Effect: Fallen enemies restore 1% health
+- Set Effect: Fallen enemies restore 1% health
+
+#----------------------------
+# Super Heavy (35 - 44.9)
+#----------------------------
+# Black Iron Set
+- Weight: 63
+- Poise: 160 [16,80,16,48]
+- Head Effect: Grants 20% Fire absorption whilst below 25% health
+- Body Effect: Grants 20% Fire absorption whilst below 25% health
+- Arms Effect: Grants 20% Fire absorption whilst below 25% health
+- Legs Effect: Grants 20% Fire absorption whilst below 25% health
+- Set Effect: Grants 20% Fire absorption whilst below 25% health
+
+# Catarina Set
+- Weight: 62
+- Poise: 170 [17,85,17,51]
+- Head Effect: Increases enemy attack reflection by 20
+- Body Effect: Increases enemy attack reflection by 20
+- Arms Effect: Increases enemy attack reflection by 20
+- Legs Effect: Increases enemy attack reflection by 20
+- Set Effect: Increases enemy attack reflection by 20
+
+# Cathedral Knight Set
+- Weight: 62
+- Poise: 180 [18,90,18,54]
+- Head Effect: Boosts damage by 5% against Hollow enemies
+- Body Effect: Boosts damage by 5% against Hollow enemies
+- Arms Effect: Boosts damage by 5% against Hollow enemies
+- Legs Effect: Boosts damage by 5% against Hollow enemies
+- Set Effect: Boosts damage by 5% against Hollow enemies
+
+# Executioner Set
+- Weight: 59
+- Poise: 140 [14,70,14,42]
+- Head Effect: Increases physical attack by 2%
+- Body Effect: Increases physical attack by 2%
+- Arms Effect: Increases physical attack by 2%
+- Legs Effect: Increases physical attack by 2%
+- Set Effect: Increases physical attack by 2%
+
+# Exile Armor Set
+- Weight: 55
+- Poise: 120 [12,60,12,36]
+- Head Effect: Increases stamina recovery by 3
+- Body Effect: Increases stamina recovery by 3
+- Arms Effect: Increases stamina recovery by 3
+- Legs Effect: Increases stamina recovery by 3
+- Set Effect: Increases stamina recovery by 3
+
+# Gundyr Set
+- Weight: 64
+- Poise: 160 [16,80,16,48]
+- Head Effect: Boosts damage by 5% against Abyssal enemies
+- Body Effect: Boosts damage by 5% against Abyssal enemies
+- Arms Effect: Boosts damage by 5% against Abyssal enemies
+- Legs Effect: Boosts damage by 5% against Abyssal enemies
+- Set Effect: Boosts damage by 5% against Abyssal enemies
+
+# Winged Knight Set 
+- Weight: 63
+- Poise: 170 [17,85,17,51]
+- Head Effect: Grants 1 Faith
+- Body Effect: Grants 1 Faith
+- Arms Effect: Grants 1 Faith
+- Legs Effect: Grants 1 Faith
+- Set Effect: Grants 1 Faith
+
+# Iron Dragonslayer Set
+- Weight: 58
+- Poise: 160 [16,80,16,48]
+- Head Effect: Grants 20% Dark absorption whilst below 25% health
+- Body Effect: Grants 20% Dark absorption whilst below 25% health
+- Arms Effect: Grants 20% Dark absorption whilst below 25% health
+- Legs Effect: Grants 20% Dark absorption whilst below 25% health
+- Set Effect: Grants 20% Dark absorption whilst below 25% health
+
+# Lapp's Set
+- Weight: 56
+- Poise: 160 [16,80,16,48]
+- Head Effect: Increases max HP by 2%
+- Body Effect: Increases max HP by 2%
+- Arms Effect: Increases max HP by 2%
+- Legs Effect: Increases max HP by 2%
+- Set Effect: Increases max HP by 2%
+
+# Lothric Knight Armor Set
+- Weight: 60
+- Poise: 120 [12,60,12,36]
+- Head Effect: Increases max Stamina by 2%
+- Body Effect: Increases max Stamina by 2%
+- Arms Effect: Increases max Stamina by 2%
+- Legs Effect: Increases max Stamina by 2%
+- Set Effect: Increases max Stamina by 2%
+
+# Millwood Knight Set
+- Weight: 61
+- Poise: 160 [16,80,16,48]
+- Head Effect: Grants 1 HP every second
+- Body Effect: Grants 1 HP every second
+- Arms Effect: Grants 1 HP every second
+- Legs Effect: Grants 1 HP every second
+- Set Effect: Grants 1 HP every second
+
+# Morne's Set
+- Weight: 57
+- Poise: 170 [17,85,17,51]
+- Head Effect: Grants -5% Miracle FP Cost 
+- Body Effect: Grants -5% Miracle FP Cost
+- Arms Effect: Grants -5% Miracle FP Cost
+- Legs Effect: Grants -5% Miracle FP Cost
+- Set Effect: Grants -5% Miracle FP Cost
+
+#----------------------------
+# Heavy (29 - 34.9)
+#----------------------------
+# Armor of Favor Set
+- Weight: 47
+- Poise: 90 [15,30,15,20]
+- Head Effect: Grants 1% Max HP, Max FP, Max Stamina and Max Equip Load 
+- Body Effect: Grants 1% Max HP, Max FP, Max Stamina and Max Equip Load 
+- Arms Effect: Grants 1% Max HP, Max FP, Max Stamina and Max Equip Load 
+- Legs Effect: Grants 1% Max HP, Max FP, Max Stamina and Max Equip Load 
+- Set Effect: Grants 1% Max HP, Max FP, Max Stamina and Max Equip Load 
+
+# Black Knight Set 
+- Weight: 53
+- Poise: 110 [25,35,25,30]
+- Head Effect: Increases fire attack by 3%
+- Body Effect: Increases fire attack by 3%
+- Arms Effect: Increases fire attack by 3% 
+- Legs Effect: Increases fire attack by 3%
+- Set Effect: Increases fire attack by 3%
+
+# Drakeblood Set 
+- Weight: 51
+- Poise: 100 [15,30,15,20]
+- Head Effect: Increases physical attack by 2%
+- Body Effect: Increases physical attack by 2%
+- Arms Effect: Increases physical attack by 2% 
+- Legs Effect: Increases physical attack by 2%
+- Set Effect: Increases physical attack by 2%
+
+# Dragonslayer Set 
+- Weight: 52
+- Poise: 110 [25,40,25,30]
+- Head Effect: Grants 20% Lightning absorption whilst below 25% health
+- Body Effect: Grants 20% Lightning absorption whilst below 25% health
+- Arms Effect: Grants 20% Lightning absorption whilst below 25% health
+- Legs Effect: Grants 20% Lightning absorption whilst below 25% health
+- Set Effect: Grants 20% Lightning absorption whilst below 25% health
+
+# Faraam Armor Set
+- Weight: 47
+- Poise: 90 [20,30,15,20]
+- Head Effect: Increases stamina recovery by 3
+- Body Effect: Increases stamina recovery by 3
+- Arms Effect: Increases stamina recovery by 3
+- Legs Effect: Increases stamina recovery by 3
+- Set Effect: Increases stamina recovery by 3
+
+# Harald Legion Set 
+- Weight: 50
+- Poise: 108 [60,12,36]
+- Body Effect: Grants 1 HP every second
+- Arms Effect: Grants 1 HP every second
+- Legs Effect: Grants 1 HP every second
+- Set Effect: Grants 1 HP every second
+
+# Lorian's Set
+- Weight: 50
+- Poise: 90 [25,40,20,30]
+- Head Effect: Increases fire attack by 3%
+- Body Effect: Increases fire attack by 3%
+- Arms Effect: Increases fire attack by 3% 
+- Legs Effect: Increases fire attack by 3%
+- Set Effect: Increases fire attack by 3%
+
+# Ruin Set 
+- Weight: 49
+- Poise: 100 [20,30,15,25]
+- Head Effect: Enemies lose 10% more stamina when guarding attacks.
+- Body Effect: Enemies lose 10% more stamina when guarding attacks.
+- Arms Effect: Enemies lose 10% more stamina when guarding attacks.
+- Legs Effect: Enemies lose 10% more stamina when guarding attacks.
+- Set Effect: Enemies lose 10% more stamina when guarding attacks.
+
+# Silver Knight Set 
+- Weight: 52
+- Poise: 110 [20,30,20,30]
+- Head Effect: Increases lightning attack by 3%
+- Body Effect: Increases lightning attack by 3%
+- Arms Effect: Increases lightning attack by 3% 
+- Legs Effect: Increases lightning attack by 3%
+- Set Effect: Increases lightning attack by 3%
+
+# Sunset Set 
+- Weight: 48
+- Poise: 90 [15,30,15,20]
+- Head Effect: Grants 1 Endurance
+- Body Effect: Grants 1 Endurance
+- Arms Effect: Grants 1 Endurance
+- Legs Effect: Grants 1 Endurance
+- Set Effect: Grants 1 Endurance
+
+#----------------------------
+# Medium #1 (25 - 28.9)
+#----------------------------
+# Brass Set
+- Weight: 43
+- Poise: 60 [6,30,6,18]
+- Head Effect: Increases magic attack by 3%
+- Body Effect: Increases magic attack by 3%
+- Arms Effect: Increases magic attack by 3% 
+- Legs Effect: Increases magic attack by 3%
+- Set Effect: Increases magic attack by 3%
+
+# Knight Set
+- Weight: 35
+- Poise: 60 [15,25,15,20]
+- Head Effect: Grants 1 Vitality
+- Body Effect: Grants 1 Vitality
+- Arms Effect: Grants 1 Vitality
+- Legs Effect: Grants 1 Vitality
+- Set Effect: Grants 1 Vitality
+
+# Mirrah Chain Set
+- Weight: 34
+- Poise: 50 [8,10,5,8]
+- Head Effect: Increases stamina recovery by 3
+- Body Effect: Increases stamina recovery by 3
+- Arms Effect: Increases stamina recovery by 3
+- Legs Effect: Increases stamina recovery by 3
+- Set Effect: Increases stamina recovery by 3
+
+# Outrider Knight Armor Set 
+- Weight: 41
+- Poise: 60 [6,30,6,18]
+- Head Effect: Grants 3% damage boost whilst below 25% health
+- Body Effect: Grants 3% damage boost whilst below 25% health
+- Arms Effect: Grants 3% damage boost whilst below 25% health
+- Legs Effect: Grants 3% damage boost whilst below 25% health
+- Set Effect: Grants 3% damage boost whilst below 25% health
+
+# Ringed Knight Set 
+- Weight: 44
+- Poise: 70 [7,35,7,21]
+- Head Effect: Boosts damage by 5% against Hollow enemies
+- Body Effect: Boosts damage by 5% against Hollow enemies
+- Arms Effect: Boosts damage by 5% against Hollow enemies
+- Legs Effect: Boosts damage by 5% against Hollow enemies
+- Set Effect: Boosts damage by 5% against Hollow enemies
+
+# Vilhelm's Set
+- Weight: 33
+- Poise: 40 [5,15,5,10]
+- Head Effect: Increases dark attack by 3%
+- Body Effect: Increases dark attack by 3%
+- Arms Effect: Increases dark attack by 3% 
+- Legs Effect: Increases dark attack by 3%
+- Set Effect: Increases dark attack by 3%
+
+# Footman Set
+- Weight: 42
+- Poise: 40 [4,20,4,12]
+- Head Effect: Grants 1 Vigor
+- Body Effect: Grants 1 Vigor
+- Arms Effect: Grants 1 Vigor
+- Legs Effect: Grants 1 Vigor
+- Set Effect: Grants 1 Vigor
+
+# Giant's Set
+- Weight: 45
+- Poise: 60 [10,30,10,20]
+- Head Effect: Grants 1 Strength
+- Body Effect: Grants 1 Strength
+- Arms Effect: Grants 1 Strength
+- Legs Effect: Grants 1 Strength
+- Set Effect: Grants 1 Strength
+
+# Burial Knight Set
+- Weight: 41
+- Poise: 50 [15,25,15,20]
+- Head Effect: Boosts damage by 5% against Undead enemies
+- Body Effect: Boosts damage by 5% against Undead enemies
+- Arms Effect: Boosts damage by 5% against Undead enemies
+- Legs Effect: Boosts damage by 5% against Undead enemies
+- Set Effect: Boosts damage by 5% against Undead enemies
+
+#----------------------------
+# Medium #2 (20 - 24.9)
+#----------------------------
+# Alva Set
+- Weight: 29
+- Poise: 50 [15,25,15,20]
+- Head Effect: Grants 1 Dexterity
+- Body Effect: Grants 1 Dexterity
+- Arms Effect: Grants 1 Dexterity
+- Legs Effect: Grants 1 Dexterity
+- Set Effect: Grants 1 Dexterity
+
+# Armor of the Sun Set
+- Weight: 27
+- Poise: 30 [15,25,15,20]
+- Head Effect: Boosts miracles by 3%
+- Body Effect: Boosts miracles by 3%
+- Arms Effect: Boosts miracles by 3%
+- Legs Effect: Boosts miracles by 3%
+- Set Effect: Boosts miracles by 3%
+
+# Armor of Thorns
+- Weight: 33
+- Poise: 50 [15,20,15,15]
+- Head Effect: Deals 50 Physical Damage when touching an enemy
+- Body Effect: Deals 50 Physical Damage when touching an enemy
+- Arms Effect: Deals 50 Physical Damage when touching an enemy
+- Legs Effect: Deals 50 Physical Damage when touching an enemy
+- Set Effect: None
+
+# Chain Armor Set 
+- Weight: 30
+- Poise: 40 [5,10,5,8]
+- Head Effect: Reduces weapon skill FP consumption by 5%
+- Body Effect: Reduces weapon skill FP consumption by 5%
+- Arms Effect: Reduces weapon skill FP consumption by 5%
+- Legs Effect: Reduces weapon skill FP consumption by 5%
+- Set Effect: Reduces weapon skill FP consumption by 5%
+
+# Dark Set
+- Weight: 33
+- Poise: 50 [15,20,15,20]
+- Head Effect: Grants 3% damage boost whilst below 25% health
+- Body Effect: Grants 3% damage boost whilst below 25% health
+- Arms Effect: Grants 3% damage boost whilst below 25% health
+- Legs Effect: Grants 3% damage boost whilst below 25% health
+- Set Effect: Grants 3% damage boost whilst below 25% health
+
+# Eastern Armor Set
+- Weight: 35
+- Poise: 50 [15,25,15,15]
+- Head Effect: Reduces weapon stamina consumption by 5%
+- Body Effect: Reduces weapon stamina consumption by 5%
+- Arms Effect: Reduces weapon stamina consumption by 5%
+- Legs Effect: Reduces weapon stamina consumption by 5%
+- Set Effect: Reduces weapon stamina consumption by 5%
+
+# Elite Knight Set
+- Weight: 34
+- Poise: 50 [15,20,15,20]
+- Head Effect: Increases Estus recovery by 5%
+- Body Effect: Increases Estus recovery by 5%
+- Arms Effect: Increases Estus recovery by 5%
+- Legs Effect: Increases Estus recovery by 5%
+- Set Effect: Increases Estus recovery by 5%
+
+# Evangelist Set 
+- Weight: 25
+- Poise: 20 [5,15,5,5]
+- Head Effect: Grants 1 Faith
+- Body Effect: Grants 1 Faith
+- Arms Effect: Grants 1 Faith
+- Legs Effect: Grants 1 Faith
+- Set Effect: Grants 1 Faith
+
+# Fallen Knight Set
+- Weight: 27
+- Poise: 40 [5,15,5,10]
+- Head Effect: Increases max Stamina by 2%
+- Body Effect: Increases max Stamina by 2%
+- Arms Effect: Increases max Stamina by 2%
+- Legs Effect: Increases max Stamina by 2%
+- Set Effect: Increases max Stamina by 2%
+
+# Fire Witch Set
+- Weight: 28
+- Poise: 20 [5,10,5,10]
+- Head Effect: Reduces spell FP cost by 5%
+- Body Effect: Reduces spell FP cost by 5%
+- Arms Effect: Reduces spell FP cost by 5%
+- Legs Effect: Reduces spell FP cost by 5%
+- Set Effect: Reduces spell FP cost by 5%
+
+# Firelink Set
+- Weight: 30
+- Poise: 50 [15,20,15,15]
+- Head Effect: Grants 1% Max HP, Max FP and Max Stamina
+- Body Effect: Grants 1% Max HP, Max FP and Max Stamina
+- Arms Effect: Grants 1% Max HP, Max FP and Max Stamina
+- Legs Effect: Grants 1% Max HP, Max FP and Max Stamina
+- Set Effect: Grants 1% Max HP, Max FP and Max Stamina
+
+# Herald Set
+- Weight: 29
+- Poise: 40 [5,10,5,10]
+- Head Effect: Grants 1 Faith
+- Body Effect: Grants 1 Faith
+- Arms Effect: Grants 1 Faith
+- Legs Effect: Grants 1 Faith
+- Set Effect: Grants 1 Faith
+
+# Nameless King Set 
+- Weight: 26
+- Poise: 40 [15,30,15,20]
+- Head Effect: Boosts miracles by 3%
+- Body Effect: Boosts miracles by 3%
+- Arms Effect: Boosts miracles by 3%
+- Legs Effect: Boosts miracles by 3%
+- Set Effect: Boosts miracles by 3%
+
+# Nameless Knight Set 
+- Weight: 32
+- Poise: 50 [15,20,15,20]
+- Head Effect: Grants 1 Strength
+- Body Effect: Grants 1 Strength
+- Arms Effect: Grants 1 Strength
+- Legs Effect: Grants 1 Strength
+- Set Effect: Grants 1 Strength
+
+# Northern Set
+- Weight: 26
+- Poise: 20 [10,15,2,10]
+- Head Effect: Grants 1 Strength
+- Body Effect: Grants 1 Strength
+- Arms Effect: Grants 1 Strength
+- Legs Effect: Grants 1 Strength
+- Set Effect: Grants 1 Strength
+
+# Slave Knight Set 
+- Weight: 28
+- Poise: 40 [15,20,15,20]
+- Head Effect: Grants 3% damage boost whilst below 25% health
+- Body Effect: Grants 3% damage boost whilst below 25% health
+- Arms Effect: Grants 3% damage boost whilst below 25% health
+- Legs Effect: Grants 3% damage boost whilst below 25% health
+- Set Effect: Grants 3% damage boost whilst below 25% health
+
+# Sunless Set 
+- Weight: 25
+- Poise: 20 [5,10,5,5]
+- Head Effect: Grants 5 spell casting speed
+- Body Effect: Grants 5 spell casting speed
+- Arms Effect: Grants 5 spell casting speed
+- Legs Effect: Grants 5 spell casting speed
+- Set Effect: Grants 5 spell casting speed
+
+# Wolf Knight Set 
+- Weight: 33
+- Poise: 40 [15,20,15,15]
+- Head Effect: Increases max Stamina by 2%
+- Body Effect: Increases max Stamina by 2%
+- Arms Effect: Increases max Stamina by 2%
+- Legs Effect: Increases max Stamina by 2%
+- Set Effect: Increases max Stamina by 2%
+
+# Varangian Set
+- Weight: 27
+- Poise: 30 [5,15,5,10]
+- Head Effect: Grants 10 Item Discovery
+- Body Effect: Grants 10 Item Discovery
+- Arms Effect: Grants 10 Item Discovery
+- Legs Effect: Grants 10 Item Discovery
+- Set Effect: Grants 10 Item Discovery
+
+#----------------------------
+# Medium #3 (15 - 19.9)
+#----------------------------
+# Black Set 
+- Weight: 16
+- Poise: 10 [1,5,1,3]
+- Head Effect: Grants 1 Attunement Slot
+- Body Effect: Grants 1 Attunement Slot
+- Arms Effect: Grants 1 Attunement Slot
+- Legs Effect: Grants 1 Attunement Slot
+- Set Effect: Grants 1 Attunement Slot
+
+# Dancer Set
+- Weight: 23
+- Poise: 30 [3,15,3,9]
+- Head Effect: Increases dark and fire attack by 3%
+- Body Effect: Increases dark and fire attack by 3%
+- Arms Effect: Increases dark and fire attack by 3% 
+- Legs Effect: Increases dark and fire attack by 3%
+- Set Effect: Increases dark and fire attack by 3%
+
+# Deserter Set
+- Weight: 15
+- Poise: 20 [2,10,2,6]
+- Head Effect: Grants 1 Endurance
+- Body Effect: Grants 1 Endurance
+- Arms Effect: Grants 1 Endurance
+- Legs Effect: Grants 1 Endurance
+- Set Effect: Grants 1 Endurance
+
+# Hard Leather Set
+- Weight: 19
+- Poise: 20 [5,10,5,5]
+- Head Effect: Grants 1 Vitality
+- Body Effect: Grants 1 Vitality
+- Arms Effect: Grants 1 Vitality
+- Legs Effect: Grants 1 Vitality
+- Set Effect: Grants 1 Vitality
+
+# Jailer Set 
+- Weight: 16
+- Poise: 10 [5,5,5,5]
+- Head Effect: Fallen enemies drop 20% more souls
+- Body Effect: Fallen enemies drop 20% more souls
+- Arms Effect: Fallen enemies drop 20% more souls
+- Legs Effect: Fallen enemies drop 20% more souls
+- Set Effect: Fallen enemies drop 20% more souls
+
+# Leonhard's Set 
+- Weight: 22
+- Poise: 10 [5,5,5,5]
+- Head Effect: Reduces weapon stamina consumption by 5%
+- Body Effect: Reduces weapon stamina consumption by 5%
+- Arms Effect: Reduces weapon stamina consumption by 5%
+- Legs Effect: Reduces weapon stamina consumption by 5%
+- Set Effect: Reduces weapon stamina consumption by 5%
+
+# Mirrah Set
+- Weight: 21
+- Poise: 30 [3,15,3,9]
+- Head Effect: Grants 5% increased damage with thrust counter attacks.
+- Body Effect: Grants 5% increased damage with thrust counter attacks.
+- Arms Effect: Grants 5% increased damage with thrust counter attacks.
+- Legs Effect: Grants 5% increased damage with thrust counter attacks.
+- Set Effect: Grants 5% increased damage with thrust counter attacks.
+
+# Pontiff Knight Set
+- Weight: 25
+- Poise: 30 [5,12,5,8]
+- Head Effect: Grants 1 Intelligence
+- Body Effect: Grants 1 Intelligence
+- Arms Effect: Grants 1 Intelligence
+- Legs Effect: Grants 1 Intelligence
+- Set Effect: Grants 1 Intelligence
+
+# Sellsword Set 
+- Weight: 16
+- Poise: 10 [5,10,5,5]
+- Head Effect: Increases stamina recovery by 2
+- Body Effect: Increases stamina recovery by 2
+- Arms Effect: Increases stamina recovery by 2
+- Legs Effect: Increases stamina recovery by 2
+- Set Effect: Increases stamina recovery by 2
+
+# Undead Legion Set 
+- Weight: 24
+- Poise: 30 [5,5,5,5]
+- Head Effect: Increases max Stamina by 2%
+- Body Effect: Increases max Stamina by 2%
+- Arms Effect: Increases max Stamina by 2%
+- Legs Effect: Increases max Stamina by 2%
+- Set Effect: Increases max Stamina by 2%
+
+# Xanthous Set 
+- Weight: 18
+- Poise: 10 [5,10,5,5]
+- Head Effect: Grants 20 FP when an enemy is killed.
+- Body Effect: Grants 20 FP when an enemy is killed.
+- Arms Effect: Grants 20 FP when an enemy is killed.
+- Legs Effect: Grants 20 FP when an enemy is killed.
+- Set Effect: Grants 20 FP when an enemy is killed.
+
+# Man Serpent Set
+- Weight: 20
+- Poise: 10 [5,10]
+- Head Effect: Increases max FP by 4%
+- Body Effect: Increases max FP by 4%
+- Set Effect: Increases max FP by 2%
+
+#----------------------------
+# Light #1 (10 - 14.9)
+#----------------------------
+# Assassin Set 
+- Weight: 15.0
+- Poise: 4 [1,1,1,1]
+- Head Effect: Reduces weapon stamina consumption by 5%
+- Body Effect: Reduces weapon stamina consumption by 5%
+- Arms Effect: Reduces weapon stamina consumption by 5%
+- Legs Effect: Reduces weapon stamina consumption by 5%
+- Set Effect: Reduces weapon stamina consumption by 5%
+
+# Black Hand Set 
+- Weight: 12
+- Poise: 6 [2, 4]
+- Head Effect: Increases physical attack by 4%
+- Body Effect: Increases physical attack by 4%
+- Set Effect: Increases physical attack by 2%
+
+# Black Leather Set 
+- Weight: 15
+- Poise: 6 [2,1,2]
+- Head Effect: Grants 1 Luck
+- Body Effect: Grants 1 Luck
+- Arms Effect: Grants 1 Luck
+- Legs Effect: Grants 1 Luck
+- Set Effect: Grants 1 Luck
+
+# Brigand Set 
+- Weight: 14
+- Poise: 6 [1,2,1,2]
+- Head Effect: Grants 1 Vigor
+- Body Effect: Grants 1 Vigor
+- Arms Effect: Grants 1 Vigor
+- Legs Effect: Grants 1 Vigor
+- Set Effect: Grants 1 Vigor
+
+# Cleric Set 
+- Weight: 11
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants 1 Faith
+- Body Effect: Grants 1 Faith
+- Arms Effect: Grants 1 Faith
+- Legs Effect: Grants 1 Faith
+- Set Effect: Grants 1 Faith
+
+# Conjurator Set 
+- Weight: 11.6
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts pyromancies by 3%
+- Body Effect: Boosts pyromancies by 3%
+- Arms Effect: Boosts pyromancies by 3%
+- Legs Effect: Boosts pyromancies by 3%
+- Set Effect: Boosts pyromancies by 3%
+
+# Drang Set
+- Weight: 12
+- Poise: 20 [10,4,6]
+- Body Effect: Boosts base defences by 10%
+- Arms Effect: Boosts base defences by 10%
+- Legs Effect: Boosts base defences by 10%
+- Set Effect: Boosts base defences by 20%
+
+# Follower Set
+- Weight: 14
+- Poise: 10 [1,5,1,3]
+- Head Effect: Increases Estus recovery by 5%
+- Body Effect: Increases Estus recovery by 5%
+- Arms Effect: Increases Estus recovery by 5%
+- Legs Effect: Increases Estus recovery by 5%
+- Set Effect: Increases Estus recovery by 5%
+
+# Karla's Set 
+- Weight: 10
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Body Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Arms Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Legs Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Set Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+
+# Leather Set
+- Weight: 13
+- Poise: 6 [1,2,1,2]
+- Head Effect: Grants 20 Bow Distance
+- Body Effect: Grants 20 Bow Distance
+- Arms Effect: Grants 20 Bow Distance
+- Legs Effect: Grants 20 Bow Distance
+- Set Effect: Grants 20 Bow Distance
+
+# Painting Guardian Set 
+- Weight: 10
+- Poise: 4 [1,1,1,1]
+- Head Effect: Reduces weapon stamina consumption by 5%
+- Body Effect: Reduces weapon stamina consumption by 5%
+- Arms Effect: Reduces weapon stamina consumption by 5%
+- Legs Effect: Reduces weapon stamina consumption by 5%
+- Set Effect: Reduces weapon stamina consumption by 5%
+
+# Shira's Set 
+- Weight: 13
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants 1 Intelligence
+- Body Effect: Grants 1 Intelligence
+- Arms Effect: Grants 1 Intelligence
+- Legs Effect: Grants 1 Intelligence
+- Set Effect: Grants 1 Intelligence
+
+# Sorcerer Set 
+- Weight: 10
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants 1 Intelligence
+- Body Effect: Grants 1 Intelligence
+- Arms Effect: Grants 1 Intelligence
+- Legs Effect: Grants 1 Intelligence
+- Set Effect: Grants 1 Intelligence
+
+# Worker Set 
+- Weight: 11
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants 1 Luck
+- Body Effect: Grants 1 Luck
+- Arms Effect: Grants 1 Luck
+- Legs Effect: Grants 1 Luck
+- Set Effect: Grants 1 Luck
+
+# Grotto Set
+- Weight: 16
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants Poison resistance
+- Body Effect: Grants Poison resistance
+- Arms Effect: Grants Poison resistance
+- Legs Effect: Grants Poison resistance
+- Set Effect: Grants immunity to Poison
+
+# Hexer Set
+- Weight: 14
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Body Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Arms Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Legs Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+- Set Effect: Boosts dark sorceries, pyromancies and miracles by 3%
+
+#----------------------------
+# Light #2 (0 - 9.9)
+#----------------------------
+# Antiquated Set 
+- Weight: 7.3
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants -5% Sorcery FP Cost 
+- Body Effect: Grants -5% Sorcery FP Cost
+- Arms Effect: Grants -5% Sorcery FP Cost
+- Legs Effect: Grants -5% Sorcery FP Cost
+- Set Effect: Grants -5% Sorcery FP Cost
+
+# Antiquated Plain Set 
+- Weight: 6.7
+- Poise: 4 [1,1,1]
+- Body Effect: Grants -5% Sorcery FP Cost
+- Arms Effect: Grants -5% Sorcery FP Cost
+- Legs Effect: Grants -5% Sorcery FP Cost
+- Set Effect: Grants -5% Sorcery FP Cost
+
+# Archdeacon Set 
+- Weight: 8.6
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants -5% Miracle FP Cost 
+- Body Effect: Grants -5% Miracle FP Cost
+- Legs Effect: Grants -5% Miracle FP Cost
+- Set Effect: Grants -5% Miracle FP Cost
+
+# Black Witch Set 
+- Weight: 9.2
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants -2% spell FP Cost
+- Body Effect: Grants -2% spell FP Cost
+- Arms Effect: Grants -2% spell FP Cost
+- Legs Effect: Grants -2% spell FP Cost
+- Set Effect: Grants -2% spell FP Cost
+
+# Court Sorcerer Set 
+- Weight: 8.9
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts sorceries by 3%
+- Body Effect: Boosts sorceries by 3%
+- Arms Effect: Boosts sorceries by 3%
+- Legs Effect: Boosts sorceries by 3%
+- Set Effect: Boosts sorceries by 3%
+
+# Cornyx's Set 
+- Weight: 7.7
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants -5% Pyromancy FP Cost 
+- Body Effect: Grants -5% Pyromancy FP Cost
+- Legs Effect: Grants -5% Pyromancy FP Cost
+- Set Effect: Grants -5% Pyromancy FP Cost
+
+# Deacon Set 
+- Weight: 5.5
+- Poise: 4 [1,1,1,1]
+- Body Effect: Grants 1 Faith
+- Legs Effect: Grants 1 Faith
+- Set Effect: Grants 1 Faith
+
+# Fire Keeper Set 
+- Weight: 8.5
+- Poise: 4 [1,1,1,1]
+- Head Effect: Fallen enemies drop 20% more souls
+- Body Effect: Fallen enemies drop 20% more souls
+- Arms Effect: Fallen enemies drop 20% more souls
+- Legs Effect: Fallen enemies drop 20% more souls
+- Set Effect: Fallen enemies drop 20% more souls
+
+# Desert Pyromancer Set 
+- Weight: 7.7
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts pyromancies by 3%
+- Body Effect: Boosts pyromancies by 3%
+- Arms Effect: Boosts pyromancies by 3%
+- Legs Effect: Boosts pyromancies by 3%
+- Set Effect: Boosts pyromancies by 3%
+
+# Grave Warden Set 
+- Weight: 7.3
+- Poise: 6 [1,2,1,2]
+- Head Effect: Grants Bleed resistance
+- Body Effect: Grants Bleed resistance
+- Arms Effect: Grants Bleed resistance
+- Legs Effect: Grants Bleed resistance
+- Set Effect: Grants immunity to Bleed
+
+# Maiden Set
+- Weight: 8.5
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts miracles by 3%
+- Body Effect: Boosts miracles by 3%
+- Arms Effect: Boosts miracles by 3%
+- Legs Effect: Boosts miracles by 3%
+- Set Effect: Boosts miracles by 3%
+
+# Master's Set
+- Weight: 2.3
+- Poise: 4 [1,1,1,1]
+- Head Effect: Reduces weapon stamina consumption by 5%
+- Body Effect: Reduces weapon stamina consumption by 5%
+- Arms Effect: Reduces weapon stamina consumption by 5%
+- Legs Effect: Reduces weapon stamina consumption by 5%
+- Set Effect: Reduces weapon stamina consumption by 5%
+
+# Old Sorcerer Set 
+- Weight: 8.5
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts maximum FP by 5%
+- Body Effect: Boosts maximum FP by 5%
+- Arms Effect: Boosts maximum FP by 5%
+- Legs Effect: Boosts maximum FP by 5%
+- Set Effect: Boosts maximum FP by 5%
+
+# Ordained Set 
+- Weight: 9.1
+- Poise: 6 [1,2,1,2]
+- Head Effect: Increases dark attack by 4%
+- Body Effect: Increases dark attack by 4%
+- Legs Effect: Increases dark attack by 4%
+- Set Effect: Increases dark attack by 3%
+
+# Pale Shade Set 
+- Weight: 8.9
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts damage by 5% against Hollow enemies
+- Body Effect: Boosts damage by 5% against Hollow enemies
+- Arms Effect: Boosts damage by 5% against Hollow enemies
+- Legs Effect: Boosts damage by 5% against Hollow enemies
+- Set Effect: Boosts damage by 5% against Hollow enemies
+
+# Prayer Set 
+- Weight: 6.7
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants 1 FP per second
+- Body Effect: Grants 1 FP per second
+- Legs Effect: Grants 1 FP per second
+- Set Effect: Grants 1 FP per second
+
+# Pyromancer Set 
+- Weight: 9.4
+- Poise: 4 [1,1,1,1]
+- Head Effect: Boosts pyromancies by 3%
+- Body Effect: Boosts pyromancies by 3%
+- Arms Effect: Boosts pyromancies by 3%
+- Legs Effect: Boosts pyromancies by 3%
+- Set Effect: Boosts pyromancies by 3%
+
+# Shadow Set 
+- Weight: 8.8
+- Poise: 4 [1,1,1,1]
+- Head Effect: Grants 1 Dexterity
+- Body Effect: Grants 1 Dexterity
+- Arms Effect: Grants 1 Dexterity
+- Legs Effect: Grants 1 Dexterity
+- Set Effect: obscures the wearer and muffles their footsteps
+
+# Saint Set
+- Weight: 9.7
+- Head Effect: Grants 1 FP per second
+- Body Effect: Grants 1 FP per second
+- Set Effect: Grants 1 FP per second
+
+#----------------------------
+# Unique
+#----------------------------
+# Blindfold Mask 
+- Weight: 1.1
+- Head Effect: Grants 1 Intelligence
+- Poise: 1
+
+# Black Witch Veil 
+- Weight: 1.4
+- Head Effect: Grants 1 FP every second
+- Poise: 1
+
+# Clandestine Coat 
+- Weight: 3.0
+- Body Effect: Masks the sounds of the wearer.
+- Poise: 2
+
+# Sage's Big Hat 
+- Weight: 1.9
+- Head Effect: Boosts sorceries by 3%
+- Poise: 1
+
+# Scholar's Robe 
+- Weight: 4.2
+- Body Effect: Grants 1 FP every second
+- Poise: 2
+
+# Thrall Hood 
+- Weight: 1.5
+- Head Effect: Grants 1 Luck
+- Poise: 1
+
+# White Preacher Head 
+- Weight: 3.5
+- Head Effect: Grants immunity to Curse
+- Poise: 1
+
+# Wolnir's Crown 
+- Weight: 3.4
+- Head Effect: boosts physical attack by 3%
+- Poise: 1
+
+# Scholar's Shed Skin
+- Weight: 1.8
+- Head Effect: Grants immunity to Curse
+- Poise: 1
+
+# Symbol of Avarice 
+- Weight: 8
+- Head Effect: Absorb 50% more Souls, adds 100 Item Discovery, lose 10 HP/s.
+- Poise: 5

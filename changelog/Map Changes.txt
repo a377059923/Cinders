@@ -1,0 +1,80 @@
+﻿#---------------------------------
+# Firelink Shrine / Unturned Graves - m40
+#---------------------------------
+
+#---------------------------------
+# High Wall of Lothric - m30
+#---------------------------------
+- Added three Hollow Soldiers to starting rampart after first bonfire.
+- Added Lothric Knight in transition passage to Dragon courtyard.
+- Added Mimic to mimic room, drops 1 Cinders.
+- Added corpse to mimic room, holds 1 Ember.
+- Added Winged Knight to rooftop that leads to courtyard.
+- Added Hollow Crossbowman to rooftop overlooking courtyard.
+- Added Pus of Man to lower platform overlooking courtyard.
+- Added Pus of Man in courtyard preceding elevator loop back.
+- Added Hollow Crossbowman to courtyard between Vordt and Dancer.
+- Added Winged Knight to courtyard between Vordt and Dancer.
+
+#---------------------------------
+# Undead Settlement - m31
+#---------------------------------
+
+#---------------------------------
+# Road of Sacrifices / Farron Keep - m33
+#---------------------------------
+- Added Pus of Man miniboss in the pit near the Dilapidated Bridge bonfire. Drops 5 Twinkling Titantie if killed.
+
+#---------------------------------
+# Cathedral of the Deep - m35
+#---------------------------------
+
+#---------------------------------
+# Catacombs of Carthus / Smouldering Lake - m38
+#---------------------------------
+
+#---------------------------------
+# Irithyll of the Valley / Anor Londo - m37
+#---------------------------------
+
+#---------------------------------
+# Profaned Capital / Irithyll Dungeon - m39
+#---------------------------------
+
+#---------------------------------
+# Lothric Castle - m30_01
+#---------------------------------
+
+#---------------------------------
+# Consumed King's Gardens - m30
+#---------------------------------
+- Added Pus of Man.
+- Added Pus of Man.
+
+#---------------------------------
+# Grand Archives - m34
+#---------------------------------
+
+#---------------------------------
+# Kiln of the First Flame - m41
+#---------------------------------
+
+#---------------------------------
+# Archdragon Peak - m32
+#---------------------------------
+
+#---------------------------------
+# Painted World of Ariandel - m45
+#---------------------------------
+
+#---------------------------------
+# Dreg Heap - m50
+#---------------------------------
+
+#---------------------------------
+# The Ringed City - m51
+#---------------------------------
+
+#---------------------------------
+# Filianore's Rest - m51_01
+#---------------------------------

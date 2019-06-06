@@ -1,0 +1,26 @@
+﻿#------------------------------
+# Reference
+#------------------------------
+\DARK SOULS III\Modding\Cinders\ is the primary development folder. Data0.bdt remains here for editing.
+Copy changes to \DARK SOULS III\Game\Cinders\ folder. Export param changes in Yapped.
+
+#------------------------------
+# Changelog
+#------------------------------
+
+#------------------------------
+# TODO
+#------------------------------
+# Add throwing item variants
+ - Frost Kukri
+ - Holy Firebomb
+ - Sorcerous Firebomb
+ - Hexing Firebomb
+ 
+# Add new spells
+# Add new bows
+# Add new crossbows
+
+# Research questline event flags
+# Research New Game event flags, to fix New Game option bug
+# Fix NG option appearing early (likely due to Yuria/Yoel questline)
